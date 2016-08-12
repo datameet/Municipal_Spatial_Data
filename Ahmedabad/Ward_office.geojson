@@ -1,0 +1,814 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.5844166, 
+                    22.9924866, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "New Muster Office Danilimda", 
+                "Address": "New Muster Office Danilimda - Nr Danilimda Road", 
+                "Latitude": "22.9924866", 
+                "Longitude": "72.5844166"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.6062386, 
+                    23.0362944, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Naroda Road , SubZonal Office", 
+                "Address": "SubZonal Office,\nNr. Ashok Mill\nNaroad ", 
+                "Latitude": "23.0362944", 
+                "Longitude": "72.6062386"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.66936750000002, 
+                    23.0533839, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Nikol New Office", 
+                "Address": "Nikol New Office  sub zone ", 
+                "Latitude": "23.0533839", 
+                "Longitude": "72.6693675"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.656402, 
+                    22.9785507, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Ramol-Subzone Muster Office", 
+                "Address": "Ramol Nr, Jama Masjid Road Ramol", 
+                "Latitude": "22.9785507", 
+                "Longitude": "72.656402"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.599129, 
+                    23.051791, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Shahibaug Ward Office", 
+                "Address": "Girdharnagar Ward Office, Near. Civil Hospital, Ahmedabad.", 
+                "Latitude": "23.051791", 
+                "Longitude": "72.599129"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.591557, 
+                    22.961994, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Lambha Ward Office", 
+                "Address": "1, National Highway 8, Narolgam, Ahmedabad, Gujarat", 
+                "Latitude": "22.961994", 
+                "Longitude": "72.591557"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.643415, 
+                    23.047155, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Thakkarbapa Nagar Ward Office", 
+                "Address": "Thakkarbapa Nagar Ward Office", 
+                "Latitude": "23.047155", 
+                "Longitude": "72.643415"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.597174, 
+                    23.024967, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Khadia Sub Zonal Office", 
+                "Address": "Near, Panchkuwa road, Ahmedabad", 
+                "Latitude": "23.024967", 
+                "Longitude": "72.597174"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.563001, 
+                    23.036283, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Navrangpura", 
+                "Address": "5, Navrangpura Marg, Swastik Society, Navrangpura, Ahmedabad, Gujarat 380009, India", 
+                "Latitude": "23.036283", 
+                "Longitude": " 72.56300099999999"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.5802711, 
+                    23.0192512, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Raikhad", 
+                "Address": "Raikhad Cahar Nadika Daravaj Road, Raikhad, ", 
+                "Latitude": "23.0192512", 
+                "Longitude": " 72.5802711"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.63904619999994, 
+                    23.0607525, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krushnanagar Ward office", 
+                "Address": "Krushnanagar Ward Office, Near, Saijpur tower", 
+                "Latitude": "23.0607525", 
+                "Longitude": " 72.63904619999994"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.627866, 
+                    23.0617152, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Saijpur", 
+                "Address": "Urban Health Center, Bhargav Road, Saijpur Bogha, Ahmedabad, Gujarat", 
+                "Latitude": "23.0617152", 
+                "Longitude": " 72.62786600000004"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.550185, 
+                    23.000582, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Vasna", 
+                "Address": "Near Swaminarayan school, Vasna ", 
+                "Latitude": "23.000582", 
+                "Longitude": "72.550185"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.561897, 
+                    23.0142474, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Paldi", 
+                "Address": "Paldi Ward office", 
+                "Latitude": "23.0142474", 
+                "Longitude": " 72.56189700000004"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.53297880000002, 
+                    22.994938, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Maktampura", 
+                "Address": "Makampura office, Near Rehnuma Society, Vishala", 
+                "Latitude": "22.994938", 
+                "Longitude": " 72.53297880000002"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.6251, 
+                    22.992365, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Bhaipura ", 
+                "Address": "Bhaipura, Hatkeshwar\nAhmedabad, Gujarat 380008", 
+                "Latitude": "22.992365", 
+                "Longitude": "72.6251"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.61031, 
+                    22.999099, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Maninagar Master office", 
+                "Address": "Near Maninagar Railway station , maninagar ", 
+                "Latitude": "22.999099", 
+                "Longitude": "72.61031"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.512842, 
+                    23.050203, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Thaltej", 
+                "Address": "Near Thaltej lake, Ahmedabad ", 
+                "Latitude": "23.050203", 
+                "Longitude": "72.512842"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.61791779999999, 
+                    22.9987844, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Khohra Sub Zone Office", 
+                "Address": "Sanatan Society Road , Khokhra , Ahmedabad - 380008 , Gujar", 
+                "Latitude": "22.9987844", 
+                "Longitude": " 72.61791779999999"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.54242750000003, 
+                    23.0714785, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Ghtalodiya", 
+                "Address": "Opposite Preet Residency, Below Chanakypuri Bridge, Ghatlodiya 380061 ", 
+                "Latitude": "23.0714785", 
+                "Longitude": " 72.54242750000003"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.574228, 
+                    23.079909, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Ranip", 
+                "Address": "Old Nagarpalika Bldg.,Opp. Mahesh Party Plot,Ahmedabad.-382470", 
+                "Latitude": "23.079909", 
+                "Longitude": "72.574228"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.537268, 
+                    23.098718, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Gota Ward Office", 
+                "Address": "9/10, Gota Gam Road, Gota, Ahmedabad, Gujarat 382481, India ", 
+                "Latitude": "23.098718", 
+                "Longitude": "72.537268"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.539243, 
+                    23.048554, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Bodakdev Ward Office", 
+                "Address": "Memnagar Road, Memnagar, Ahmedabad, Gujarat 380052, India", 
+                "Latitude": "23.048554", 
+                "Longitude": "72.539243"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.502141, 
+                    22.980873, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sarkhej", 
+                "Address": "Sarkhej Village Road, Sarkhej, Ahmedabad, Gujarat 380055, India", 
+                "Latitude": "22.980873", 
+                "Longitude": "72.502141"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.52326160000007, 
+                    23.0039624, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Vejalpur", 
+                "Address": "Jaltarang Society, 9B, Vejalpur Road, Jignasa Society, Vibhavari Society, Jivrajpark, Ahmedabad, Gujarat 380051, India", 
+                "Latitude": "23.0039624", 
+                "Longitude": " 72.52326160000007"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.520452, 
+                    23.016724, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Jodhpur", 
+                "Address": "10, Jodhpur Village, Jodhpur, Ahmedabad, Gujarat 380015, India", 
+                "Latitude": "23.016724", 
+                "Longitude": "72.520452"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.564316, 
+                    23.049202, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Stadium", 
+                "Address": "45, Somnath Road, Shanti Nagar, Usmanpura, Ahmedabad, Gujarat 380013, India", 
+                "Latitude": "23.049202", 
+                "Longitude": " 72.56431599999996"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.565108, 
+                    23.062522, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "New Wadaj", 
+                "Address": "32, New Wadaj Road, Bhimjipura, Nava Vadaj, Ahmedabad, Gujarat 380013, India", 
+                "Latitude": "23.062522", 
+                "Longitude": "72.565108"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.5924742, 
+                    23.0742044, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sabarmati", 
+                "Address": "AMTS Bus Stand, Dharm Nagar II, Sabarmati, Ahmedabad, Gujarat 380005, India", 
+                "Latitude": "23.0742044", 
+                "Longitude": " 72.59247419999997"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.592656, 
+                    23.108351, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Chandkheda", 
+                "Address": "1, Nigam Nagar, Chandkheda, Ahmedabad, Gujarat 382424, India", 
+                "Latitude": "23.108351", 
+                "Longitude": " 72.59265600000003"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.590908, 
+                    23.036437, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Dariyapur", 
+                "Address": "2649, Delhi Chakla, Dariyapur, Ahmedabad, Gujarat 380001, India", 
+                "Latitude": "23.036437", 
+                "Longitude": " 72.59090800000001"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.632171, 
+                    23.08149, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sardarnagar", 
+                "Address": "643, Shri Sadhujti L Vasvani Marg, Sindhi Ambawadi, Hansol, Ahmedabad, Gujarat 382475, India", 
+                "Latitude": "23.08149", 
+                "Longitude": " 72.63217099999997"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.602344, 
+                    22.9806956, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Isanpur", 
+                "Address": "Ramwadi-Anandwadi Road, Jay Krishna Society, Isanpur, Ahmedabad, Gujarat 380050, India", 
+                "Latitude": "22.9806956", 
+                "Longitude": " 72.60234400000002"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.630652, 
+                    22.989127, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Indrapuri", 
+                "Address": "CTM Flyover 2, Hatkeshwar, Ahmedabad, Gujarat 380008, India", 
+                "Latitude": "22.989127", 
+                "Longitude": "72.630652"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.617033, 
+                    22.952902, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Vatva", 
+                "Address": "16/17, Vatva, Ahmedabad, Gujarat 382440, India", 
+                "Latitude": "22.952902", 
+                "Longitude": " 72.61703299999999"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.574079, 
+                    22.997042, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Behrampura", 
+                "Address": "Piplaj - Pirana Road, Calico Mills, Behrampura, Ahmedabad, Gujarat 380022, India", 
+                "Latitude": "22.997042", 
+                "Longitude": "72.574079"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.624324, 
+                    23.017831, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Rajpur", 
+                "Address": "11, Industrial Area, Rakhial, Ahmedabad, Gujarat 380021, India", 
+                "Latitude": "23.017831", 
+                "Longitude": "72.624324"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.628711, 
+                    23.008722, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Amraivadi", 
+                "Address": "Ajod Dairy Road, Amraiwadi, Ahmedabad, Gujarat 380021, India", 
+                "Latitude": "23.008722", 
+                "Longitude": "72.628711"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.635723, 
+                    23.025917, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Bapunagar", 
+                "Address": "3, Taj Mohammad Khan Pathan Road, Soni ni chali, Virat Nagar, Rakhial, Ahmedabad, Gujarat 380024, India", 
+                "Latitude": "23.025917", 
+                "Longitude": "72.635723"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.6462114, 
+                    23.0002077, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Vastral", 
+                "Address": "54, Ajay Tent No. 5 Road, Mahadev Nagar, Ahmedabad, Gujarat 382418, India", 
+                "Latitude": "23.0002077", 
+                "Longitude": " 72.64621139999997"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.65000850000001, 
+                    23.0240978, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Odhav", 
+                "Address": "63/A, Rabadi Vasahat Road, G I D C Industrial Area, Odhav, Ahmedabad, Gujarat 382415, India", 
+                "Latitude": "23.0240978", 
+                "Longitude": " 72.65000850000001"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.655845, 
+                    23.074913, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Naroda ", 
+                "Address": "Gujarat State Highway 68, GIDC Naroda, Ahmedabad, Gujarat 382330, India", 
+                "Latitude": "23.074913", 
+                "Longitude": "72.655845"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.601811, 
+                    23.0414554, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Asarva", 
+                "Address": "Jahangirpura, Asarwa, Ahmedabad, Gujarat 380016, India", 
+                "Latitude": "23.0414554", 
+                "Longitude": " 72.601811"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.611924, 
+                    23.029737, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "SARASPUR", 
+                "Address": "Saraspur Bal Bhavan, Nr, Maniben K.K. Eye Hospital,", 
+                "Latitude": "23.029737", 
+                "Longitude": "72.611924"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.556409, 
+                    23.057469, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "NARANPURA", 
+                "Address": "Naranpura Ward Office, Nr.Kameshwar Mahadev Mandir, Naranpura,Ahmedabad", 
+                "Latitude": "23.057469", 
+                "Longitude": "72.556409"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.583484, 
+                    23.051609, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Shahpur Ward office", 
+                "Address": "Dudheshwar Sub Zonal Office, Dudheshwar water works compound, Shahibaug, Ahmedabad", 
+                "Latitude": "23.051609", 
+                "Longitude": "72.583484"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.551097, 
+                    23.080566, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "CHANDLODIA", 
+                "Address": "Old Nagarpalika Office", 
+                "Latitude": "23.080566", 
+                "Longitude": "72.551097"
+            }
+        }
+    ]
+} "NARANPURA", "description": "Address: Naranpura Ward Office, Nr.Kameshwar Mahadev Mandir, Naranpura,Ahmedabad<br>Latitude: 23.057469<br>Longitude: 72.556409", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null, "Address": "Naranpura Ward Office, Nr.Kameshwar Mahadev Mandir, Naranpura,Ahmedabad", "Latitude": "23.057469", "Longitude": "72.556409" }, "geometry": { "type": "Point", "coordinates": [ 72.556409, 23.057469, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Shahpur Ward office", "description": "Address: Dudheshwar Sub Zonal Office, Dudheshwar water works compound, Shahibaug, Ahmedabad<br>Latitude: 23.051609<br>Longitude: 72.583484", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null, "Address": "Dudheshwar Sub Zonal Office, Dudheshwar water works compound, Shahibaug, Ahmedabad", "Latitude": "23.051609", "Longitude": "72.583484" }, "geometry": { "type": "Point", "coordinates": [ 72.583484, 23.051609, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "CHANDLODIA", "description": "Address: Old Nagarpalika Office<br>Latitude: 23.080566<br>Longitude: 72.551097", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null, "Address": "Old Nagarpalika Office", "Latitude": "23.080566", "Longitude": "72.551097" }, "geometry": { "type": "Point", "coordinates": [ 72.551097, 23.080566, 0.0 ] } }
+]
+}

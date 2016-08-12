@@ -1,0 +1,221 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.549721, 
+                    23.004688, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Vir Savarkar Muni.Swimmingpool", 
+                "description": "Vasna,Opp. Godawari Flats, B/h. Anjali Cinema, Vasna"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.564089, 
+                    23.040239, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sardarpatel Stadium.Mui.Swimmingpool", 
+                "description": "Nr. Stadium Circle, Navrangpura"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.599722, 
+                    23.003289, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Shri Hirabhai Smarak Swimming Pool", 
+                "description": "Kankariya,Opp. BRTS Bus Stop, Nr. Kankariya Lake, Kankariya, Maninagar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.567784, 
+                    23.062967, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Padhmashri Jashubhai Patel Swimming Pool", 
+                "description": "Nava Vadaj,Nr. Bhimjipura Bus Stop, Nava Vada"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.653553, 
+                    23.029656, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Vitthalbhai Patel Swimming Pool", 
+                "description": "Odhav,B/h. Ambika Nagar Fire Station, Nr. Water Tank, Odhav"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.563039, 
+                    23.080086, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Cricketer Shri Vinu Mankad Swimmingpool", 
+                "description": "Ranip,Nr. Ambica Garden, B/S. Nishan School, Nirnaynagar Dhal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.591259, 
+                    23.042245, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Hajipura Muni.Swimmingpool", 
+                "description": "Hajipura,B/s. Lakhaji Kuvarji Chock Hall, B/h. Hajipura Garden, Madhupura"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.592895, 
+                    23.080616, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Shree Kantilal PhoolChand Dhiya Muni.Swimmingpool", 
+                "description": "Sabarmati,Nr. Vima Yojna Dispensary, Nr. BSNL Office, Sabarmati"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.616021, 
+                    22.998788, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Shri Lalbhai Chababhai Patel Swimming Pool", 
+                "description": "Khokhra,Opp. Vima Yojna Dispensary, B/s. Gajanand Flats, Khokhra"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.602465, 
+                    23.044968, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Asarva Swimming Pool", 
+                "description": "Asarva,B/s. Khandubhai Desai Hall, Asarva"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.613759, 
+                    23.032808, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Shree Somnath Prabhashankar Dave Swimmingpool", 
+                "description": "Saraspur,Potalia Cross Road, Saraspur"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.577532, 
+                    23.024223, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Shri Ramanbhai Lallubhai Swimming Pool", 
+                "description": "Lal Darwaja,Nr. AMTS Bus Stop, Lal Darwaja"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.633317, 
+                    22.991581, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Swami Vivekanand Swimming Pool", 
+                "description": "CTM,Opp. CTM Mill, Nr. CTM Cross Road, CTM"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.598587, 
+                    23.021156, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Shri Vasant Gajendra Gadkar Swimming Pool", 
+                "description": "Sarangpur,B/h. Sarangpur Bus Stop, Sarangpur"
+            }
+        }
+    ]
+}

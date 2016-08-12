@@ -1,0 +1,97 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.6334883, 
+                    23.0571147, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "North Zone"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.514347, 
+                    23.039006, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "New West Zone"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.570012, 
+                    23.047767, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "West zone"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.5859, 
+                    23.021259, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Central Zone"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.639183, 
+                    23.026649, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "East Zone"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.603216, 
+                    22.998122, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "South Zone"
+            }
+        }
+    ]
+}edabad-08.", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 72.603216, 22.998122, 0.0 ] } }
+]
+}

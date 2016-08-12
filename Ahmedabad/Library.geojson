@@ -1,0 +1,941 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.566632, 
+                    23.06356, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Chandrakant Baxi Library", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.643914, 
+                    23.02553, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kavi ramanlal vasantlal Desai,Nikol", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.623712, 
+                    23.021774, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "V.N.Shah Library,Rakhiyal", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.594867, 
+                    23.021184, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "B.N.Library,Raipur", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.531455, 
+                    23.011051, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Dr.Shyama Prashad Mukharji", 
+                "description": "Dr.Shyama Prashad Mukharji Over Bridge Under 132 Foot RingRoad Vejalpur"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.602814, 
+                    22.998323, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "GorvardhanrAM Tripathi Muni Library", 
+                "description": "Opp- Fire Briged RAMbaugh Maninagar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.580155, 
+                    23.043314, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Jayotindra Dave Muni Library", 
+                "description": "Opp-lalakaka Holl Shahpur Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.656816, 
+                    23.074475, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Patel.K.K.Muni Library", 
+                "description": "Naroda GAM Na Nake Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.586658, 
+                    23.018496, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Swa.Lalbhai Kundivala Muni.Library", 
+                "description": "Opp- Anjuman High School Chipavad JAMalpur Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.581442, 
+                    23.039086, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Chimanlal PurshottAMdas Gajjar Muni Library", 
+                "description": "Jivankadashi ni Pole Shahpur Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.611697, 
+                    23.012629, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Dr. Babasaheb Ambedkar Muni.Library", 
+                "description": "Kundavadi achali GomtipurDarwaja Bahar Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.590986, 
+                    23.04215, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kavi Narmad Muni.Library", 
+                "description": "Hajipura Garden Madhupura Bardolpura Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.598604, 
+                    23.054098, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Trithkar Udhyan Muni.Library", 
+                "description": "Trithkar Udhyan Opp-Rajashthan Hospital Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.600938, 
+                    23.049959, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Jethabhai Garden Muni.Library", 
+                "description": "Civil Hospital Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.625689, 
+                    23.036847, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Ishawarlal Kachrabhai Parmar Muni.Library", 
+                "description": "Opp-Shreeji vidhyalaya Bapunagar Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.598729, 
+                    23.057423, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sakriben Chturbhai SINI.City.Muni.Library", 
+                "description": "Shahibaugh Dafnala Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.620434, 
+                    22.975735, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kavi RAManlal Vashantbhai Desai Muni.Library", 
+                "description": "Opp-Krishnapark Tubevel Fa.Plot no28 Nikol Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.635376, 
+                    23.025995, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Chnadrkant Bakshi Muni.Library", 
+                "description": "Bh-Devpath Flat Arban Health Centre Nava Vadaj Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.57718, 
+                    23.003244, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kaniyalal NathurAM Bhil Muni.Library", 
+                "description": "Opp-Gurulrupa Pumping Station Kubernagar Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.660854, 
+                    23.023599, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Umashankar Joshi Muni.Library", 
+                "description": "Opp- Circuit House Gayatri Temple Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.561231, 
+                    23.036051, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kaniyalal Maneklal Munshi Muni.Library", 
+                "description": "Swastik Char Rasta Muni.JimenshiyAM Opp- Bhilvadaroad Bhaipura Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.548642, 
+                    23.009309, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "K.K.Shastri Muni.Library", 
+                "description": "Dhrnidhar Derasar Char Rasta Paldi Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.62599, 
+                    23.00949, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Narsinhrav divetiya Muni.Library", 
+                "description": "Opp-P.M.Ghyanmandir Mathur Master Char Rasta Amraivadi Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.619468, 
+                    23.001735, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kavi Suresh HariPrashad Joshi Muni.Library", 
+                "description": "Old-Maleriya Office Opp- Muni.School Khokhra Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.633214, 
+                    22.9916, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kaka Kalekar Muni.Library.", 
+                "description": "C.T.M.Char Rasta Ahmedabad."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.616269, 
+                    22.992423, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Manishankar Ratanji Bhatt Muni Library", 
+                "description": "Opp-Bajkhedavala Society Khokhra Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.614034, 
+                    23.018207, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Pannalal Patel Muni Library", 
+                "description": "Opp-Gomtipur Darwaja Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.586131, 
+                    23.023427, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Dadabhai Navroji Muni Library", 
+                "description": "Opp-pankornaka Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.586412, 
+                    23.009209, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Bhikhubhai Chavda Muni Library", 
+                "description": "Opp-liladharbhai Holl BehrAMbhai Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.605379, 
+                    23.04375, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Koutilya Muni Library", 
+                "description": "Asarwa Chkla Asarwa Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.589849, 
+                    23.083412, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Mahatmagandhi Muni Library", 
+                "description": "RAMnagar Chok Sabarmati Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.59029, 
+                    23.018021, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Surendrabhai Patel (Daskaka) Muni Library", 
+                "description": "Astodiya Chakla Dhalni Pole"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.582112, 
+                    23.013067, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "ShekhadAM Abuvala Muni Library", 
+                "description": "Opp-JAMalpur Pagthiya Tangarvad Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.607894, 
+                    23.014005, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Shree RAManlal Nilkhanth Muni Library", 
+                "description": "Opp-Joshef School Rajpur Mansurini chali Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.596316, 
+                    23.02854, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "RA.B.GI.U.Muni.Library", 
+                "description": "Kalupur Muni.Gujarati SchoolnO-22 Khodi AAMbali Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.581516, 
+                    23.013216, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Suny Palanpuri Muni Library", 
+                "description": "Sodaghar Ni Pole Opp-JAMalpur Darwaja Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.589021, 
+                    23.08003, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Nanhalal Kavi Muni.Library", 
+                "description": "Opp-Parshi Agiyari Katodiya Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.631235, 
+                    23.081546, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Radhakishan Sharma Muni.Library", 
+                "description": "Opp- Police Choki Ambavadi Sardarnagar Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.540531, 
+                    23.067791, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Pandit Dindayal Upadhyay Muni.Library", 
+                "description": "Thakorvas Ghatlodiya AhAMedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.570694, 
+                    23.023358, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sheth Maneklal Jethalal Sanchalit Library", 
+                "description": "Elish Bridge-Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.549009, 
+                    23.060112, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sheth Maneklal Jethalal Sanchalit Library", 
+                "description": "Opp-Block No- 83 Gujarat hou.board Vijay nagar Naranpura"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.593716, 
+                    23.028182, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Ajit Bhagat Memorial Trust Library", 
+                "description": "Ajit Bhagat Memorial Trust Kalupur Ward No.2 Doshivada ni pole kalupur"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.621683, 
+                    23.048756, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kavi Shree ManBhatt Premanand Library,Naroda", 
+                "description": "Opp-Vijay Mill Asarwa MarathiSchool No-1-2 Naroda Road Ahmedabad-380018"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.554089, 
+                    23.003902, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Surishwar Library,Vasana Branch Libarary", 
+                "description": "Chandranagar Road Opp-Anjali Char Rasta Vasna Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.607347, 
+                    22.991631, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Atma Science & Technology Library", 
+                "description": "Opp-Maninagar Tenish Court Bh-Kamla Nehru Udhyan Uttamnagar Maninagar Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.632006, 
+                    23.053361, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Vir Savarkar Muni.Library", 
+                "description": "Sport Compound Memco Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.619803, 
+                    23.006453, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sheth Maneklal Jethalal Sanchalit Library", 
+                "description": "Opp- Laliteshwar Mahadev Near-New Cotton Circle Ahmedabad-380026"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.605313, 
+                    23.043754, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "dayanand Sarshwati Muni Library", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.596916, 
+                    23.012024, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Narayanbhai Ranchhodbhai Library,Kantodiya", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.589348, 
+                    23.031334, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "RA.B.GI.U Library", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.520289, 
+                    23.017079, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Vasantbhai Rami Library", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.591523, 
+                    23.028567, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kavi Dalpatram Library,Relif Road", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.629647, 
+                    23.061043, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kanaiyalal Nathuram Library,Kubernagar", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.520181, 
+                    23.039651, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "MakrantBhai desai Library,Bodakdev", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.625849, 
+                    23.008615, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kanaiya lal Maneklal Munsi Library", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.637009, 
+                    23.058453, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Saijpur Library", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.53992, 
+                    23.056684, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sola Library", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.646645, 
+                    23.051071, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Thakkarbapanagar Library", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.557276, 
+                    23.062249, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Chandrakant Library,Vijay Nagar", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.535835, 
+                    23.027245, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Kavi shree Rajendra shah Library,Himmat lal park", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.611293, 
+                    23.032047, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "sureshBhai Ramkumar Joshi Library,Sarspur", 
+                "description": null
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.627539, 
+                    23.007979, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Reading room,Amaraywadi", 
+                "description": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,596 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.616238, 
+                    22.9987, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Khokhra Vyayam shala", 
+                "description": "Nearer to Khokhra Swimming pool,57-Khokhra ward,Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.606545, 
+                    23.000651, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Maninagar Vyayam shala", 
+                "description": "Opposite to L.G Hospital,Maninagar,Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.599178, 
+                    23.008956, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Ambubhai Purani Vyayam vidhyalaya", 
+                "description": "In Kankariya Lake, Kankariya,Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.633436, 
+                    22.991723, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Swami Vivekanand Vyayam Vidhyalaya", 
+                "description": "C.T.M Cross Road,Bagefirdosh,Ahmedabad<br>New_Name-Bagefirdosh Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.61033, 
+                    22.975236, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Isanpur Vyayam shala,isanpur", 
+                "description": "Opposite To Smruti Temple,Isanpur,Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.62947, 
+                    23.007232, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Mahadev Desai Vyayam Vidhyalaya", 
+                "description": "Swastik Cross Road,Nr. Rabari Colony,Bhaipura,Ahmedabad<br>New Name- Bhaipura Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.646766, 
+                    23.029095, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Chandrashekhar Aaazad Vyayam Vidhyalaya", 
+                "description": "Opposite To Tejendra Park,Nikol,Ahmedabad<br>New Name-Nikol Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.653247, 
+                    23.029486, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Vithhalbhai Patel Vyayam Vidhyalaya", 
+                "description": "Nearer To Gajanand Circle,Odhav,Ahmedabad<br>New name-Odhav Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.651612, 
+                    23.067594, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Sadarsinh Rana Vyayam Vidhyalaya", 
+                "description": "In the Payal Nagar Park,Naroda Gam,Muthiya,Ahmedabad<br>New name-Naroda Muthiya Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.64021, 
+                    23.060856, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Kinnarivala Vyayam Shala", 
+                "description": "Opposite to Saijpur Tower,Saijpur Bogha,Saijpur,Ahmedabad<br>New Name-Saijpur Bogha Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.632086, 
+                    23.053378, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Memco Sports Center", 
+                "description": "veer savarkar vyaym shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.629681, 
+                    23.061065, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Chitranjandas Vyayam Vidhyalaya", 
+                "description": "Opposite to Sachidanand Society,Limda Bus Stand Road,Kubernagar,Ahmedabad<br>New Name-Kubernagar Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.600763, 
+                    23.049366, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Mangalpandey Vyayam Vidhyalaya", 
+                "description": "In Jethabhai Park,Oppo-Civil Hospital,Girdharnagar,Ahmedabad<br>New Name-Girdharnagar Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.595753, 
+                    23.062216, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Rajmata Vijayaraja Sindhiya Mahila Vyayam Vidhyalaya", 
+                "description": "Nearer To Shahibag Post Office,Circuit House,Shahibag,Ahmedabad,<br>New Name- Shahibag Mahila Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.591156, 
+                    23.042031, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Medam Kama Vyayam Vidhyalaya", 
+                "description": "Nearer Hajipura Swimming Pool,Hajipura,Ahmedabad<br>New Name-Hajipura Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.591865, 
+                    23.037135, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Sukhdev Vyayam Vidhyalaya", 
+                "description": "Nearer Dariyapur Mustar Station,Opp- Kuti Masjid, Dariyapur,ahmedabad<br>New Name-Dariyapur Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.58148, 
+                    23.039078, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Umakant Kadiya,Shahpur Vyayam Shala", 
+                "description": "Jivan KamalShi Ni Pol,Shahpur,Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.579645, 
+                    23.04169, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Manikba Sanskar Vadi Vyayam Shala", 
+                "description": "Kiran Nagar Dudheswar Road,Ahmedabad<br>New Name-Dudheshwar Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.564528, 
+                    23.040069, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sardar Patel Vyayam Vidhyalaya", 
+                "description": "Nr Swimming Pool,Sardar Patel Stadium,Navrangpura,Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.568102, 
+                    23.063163, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Cricketer Padamshree Jashubhai patel Vyayam Vidhyalaya", 
+                "description": "Bhimjipura pumping Station,Swimming Pool,Vadaj,Ahmedabad<br>New Name-Nava Vadaj Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.56314, 
+                    23.080322, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Cricketer Vinu Mankad Vyayam Shala", 
+                "description": "Nearer Nishant School,Swimming Pool,Nirnyan Nagar road, Ranip,Ahmedabad<br>New Name-Ranip Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.584535, 
+                    23.084176, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Mahadev Govind Rnde Vyayam Vidhyalaya", 
+                "description": "Nearer Kothari Tower Parking,Sabarmati,Ahmedabad<br>New name-Sabarmati Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.584394, 
+                    23.116104, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Bankimchandra Pal Vyayam Vidhyalaya", 
+                "description": "Nearer City Civic Centre,Chandkheda Gam,Ahmedabad<br>New Name-Chandkheda Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.520194, 
+                    23.03965, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Shree Makarchand Desai Vyayam Vidhyalaya", 
+                "description": "Opposite Relience Fresh,AMC Garden,Bodakdev,Ahmedabad<br>New Name-Bodakdev Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.531543, 
+                    23.010201, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Pandit Madanmohan Malviya Vyayam Vidhyalaya", 
+                "description": "Under Shyama Prasad Bridge,Vejalpur,Ahmedabad<br>New Name-Vejalpur Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.542259, 
+                    23.071903, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Ghatlodiya Vyayam Shala", 
+                "description": "Ghatlodiya,Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.549783, 
+                    23.004469, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Swatantra Vir Savarkar Vyayam Vidhyalaya", 
+                "description": "City Civic Center,Vasna,Ahmedabad<br>New Name-Vasna Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.578834, 
+                    23.010842, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sardar bridge Vyayam Shala", 
+                "description": "Behind jamalpur Vegetable Market,Sardar Bridge Health Quaters,Jamalpur,Ahmedabad,<br>New Name-Sardar Bridge Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.578846, 
+                    23.013929, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Raykhad Vyayam Vidhyalaya", 
+                "description": "Near Gayakvad HAveli Road,Raykhad,Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.579516, 
+                    23.013873, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Asraf Ullakhan Vyayam Vidhyalaya", 
+                "description": "Sodagar Ni Pol,Jamalpur Darwaja,Jamalpur,Ahmedabad<br>New Name-Jamalpur Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.611695, 
+                    23.029609, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sarashpur Vyayam Shala", 
+                "description": "Nearer Balbhavan,Saraspur Muster,Saraspur,Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.556864, 
+                    23.020814, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Raja Rammohanray Vyayam Vidhyalaya", 
+                "description": "Parimal Garden,Panchvati,Ahmedabad<br>New Name-Parimal Garden Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.555286, 
+                    23.029757, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Veer Chandrashekhar Aazad Vyayam Shala", 
+                "description": "Opposite IDBI Bank,Municipal Staff Quaters,Lal Bunglow,Ellisbridge,ahmedabad<br>New Name-Ellisbridge Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.591609, 
+                    23.02859, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Tatya Tope Vyayam Vidhyalaya", 
+                "description": "Opposite Calico dom Relief Road,Kalupur,ahmedabad<br>New Name-Kalupur Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.589936, 
+                    23.023445, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Sardar Patel Vyayam Vidhyalaya", 
+                "description": "Zupadi Ni Pol Sankadi Sheri,Khadiya,Ahmedabad<br>New Name-Sardar Patel Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.609527, 
+                    23.012583, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Krantivir Ishvarchandra Vidhyasagar Vyayam Vidhyalaya", 
+                "description": "Opposite To Post Office,Kunda Vadi Chali,Gomtipur,Ahmedabad<br>New Name-Gomtipur Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.613166, 
+                    23.035111, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Prahladsinh Patel Vyayam Shala", 
+                "description": "Opposite Rami Ni Chali,Rakhiyal,Ahmedabad<br>New Name-Rakhiyal Vyayam Shala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.599756, 
+                    23.00341, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Pushpkunj Table Tennis", 
+                "description": "Swimming Pool,Kankariya,Ahmedabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.598224, 
+                    23.018832, 
+                    0.0
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "Name": "Raipur Sports Sankul", 
+                "description": "Opposite Kagdapith Police Station Raipur,Ahmedabad"
+            }
+        }
+    ]
+}
