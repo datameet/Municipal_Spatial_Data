@@ -11,11 +11,13 @@ Wards in GeoJSON Format
 
 Wards in KML (Google Earth) Format
 
+====
 
 **Source**
 
 This data was liberated from a a Google Map  present on the Bhopal Municipal Corporation Website at [http://www.bhopalmunicipal.com/city-information/informative-map.html](http://www.bhopalmunicipal.com/city-information/informative-map.html)
 
+====
 
 **License**
 
