@@ -1,0 +1,12 @@
+site_name: Spatial Data of Municipalities (Maps)
+theme_dir: cinder
+copyright: "Spatial Data of Municipalities (Maps)  is licensed under the <a href='Creative Commons Attribution-ShareAlike 2.5 India'>Creative Commons Attribution-ShareAlike 2.5 India</a>"
+pages:
+    - Home: index.md
+    - Contributing: contributing.md
+    - Reference: reference.md
+    - Municipalities:
+        - Bangalore: bangalore.md
+site_dir: './../docs'
+extra_css:
+    - css/extra.css
