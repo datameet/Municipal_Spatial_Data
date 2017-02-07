@@ -6,6 +6,7 @@ pages:
     - Contributing: contributing.md
     - Reference: reference.md
     - Municipalities:
+        - Ahmedabad: ahmedabad.md
         - Bangalore: bangalore.md
 site_dir: './../docs'
 extra_css:
