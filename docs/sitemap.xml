@@ -28,6 +28,12 @@
     
         
     <url>
+     <loc>/ahmedabad/</loc>
+     <lastmod>2017-03-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/bangalore/</loc>
      <lastmod>2017-03-15</lastmod>
      <changefreq>daily</changefreq>

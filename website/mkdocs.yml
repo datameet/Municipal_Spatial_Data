@@ -6,6 +6,7 @@ pages:
     - Contributing: contributing.md
     - Reference: reference.md
     - Municipalities:
+        - Ahmedabad: ahmedabad.md
         - Bangalore: bangalore.md
     - Maps:
       - 'Assembly Constituencies': 'assembly-constituencies.md'
