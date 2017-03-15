@@ -144,6 +144,81 @@
             "location": "/bangalore/#supporting-documents", 
             "text": "Not yet   \nvar map_path = 'https://cdn.rawgit.com/datameet/Municipal_Spatial_Data/1866f495888eaeabd75bbe575bd40902b5ee63cf/Bangalore/BBMP.GeoJSON';", 
             "title": "Supporting Documents"
+        }, 
+        {
+            "location": "/assembly-constituencies/", 
+            "text": "window.location.href=\"http://projects.datameet.org/maps/assembly-constituencies/\";", 
+            "title": "Assembly Constituencies"
+        }, 
+        {
+            "location": "/parliamentary-constituencies/", 
+            "text": "window.location.href=\"http://projects.datameet.org/maps/parliamentary-constituencies/\";", 
+            "title": "Parliamentary constituencies"
+        }, 
+        {
+            "location": "/states/", 
+            "text": "window.location.href=\"http://projects.datameet.org/maps/states\";", 
+            "title": "States"
+        }, 
+        {
+            "location": "/districts/", 
+            "text": "window.location.href=\"http://projects.datameet.org/maps/districts\";", 
+            "title": "Districts"
+        }, 
+        {
+            "location": "/", 
+            "text": "Spatial Data of Municipalities (Maps)\n\n\nSpatial Data of Municipalities (Maps) sourced from different government websites which are freely available to all the Indians. Here we have digitized them, cleaned them, added appropriate attributes so it can be used by all the researchers, students etc\n\n\nAll the municipality boundaries are available in geojson (WGS84, EPSG4326) format. The below table gives you the city of the data as we clean and upload. Data is not perfect there as many errors both in data and boundaries. You can contribute by sending the pull requests. Refer \nCONTRIBUTING\n for ways to contribute.\n\n\n This projects run by \nData{Meet}\n community. DataMeet is a community of Data Science and Open Data enthusiasts. Data{Meet} community encompass many people, ideas, projects, solutions, and challenges that using data in India presents. Join the the \nGoogle Group\n to be part of this community.\n\n\nStructure\n\n\nEach city has a folder, for example city of Bangalore will have folder called \nBangalore\n folder. It will contain \n\n\n\n\nA geojson file \nBBMP.GeoJSON\n which is our map file\n\n\n\n\nGeoJson Attributes\n\n\nEach boundary will have the attributes as per avilability. \n\n\nDownload\n\n\nYou can download the whole repository as a zip file to get everything you want. Using the button below.\n\n\n\n  \n Download Everything\n\n\nIf you are in exploring mode then to go to the specific city map page. In city page you can see a very rough version of the city map and notes related to that map.You can also download the full version state map from city page. If you just want to download the map. \nRight click on download link -\n Save link as\n.\n\n\n\n    \n\n        \nCity\n\n        \nStatus\n\n        \nDownload\n\n    \n\n\n\n    \n\n        \nBangalore - BBMP\n\n        \nComplete\n\n        \nDownload\n\n    \n\n\n\n\n\n\n\nLicense\n\n\nAll our work will be under \nCreative Commons Attribution-ShareAlike 2.5 India\n. This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections but please source them to an official source. Refer \nCONTRIBUTING.md\n for ways to contribute.\n\n\nAttribute\n\n\nPlease use the following lines to attribute the maps if you use in your work. You could link instead of printing the URLs in case of web projects.\n\n\nMaps Provided by Spatial Data of Municipalities (Maps) Project [http://projects.datameet.org/Municipal_Spatial_Data/] by Data{Meet}. Its made available under the \nCreative Commons Attribution-ShareAlike 2.5 India\n.\n\n  \n\n\nIssues\n\n\nIf you have any issues with the maps, please report them on the github repository:\n\n\nReport Issue\n\n\nActive Issues\n\n\nRepository\n\n\n\n  \n GitHub\n   \n\n\nCommunity", 
+            "title": "Spatial data of Municipalities"
+        }, 
+        {
+            "location": "/#spatial-data-of-municipalities-maps", 
+            "text": "Spatial Data of Municipalities (Maps) sourced from different government websites which are freely available to all the Indians. Here we have digitized them, cleaned them, added appropriate attributes so it can be used by all the researchers, students etc  All the municipality boundaries are available in geojson (WGS84, EPSG4326) format. The below table gives you the city of the data as we clean and upload. Data is not perfect there as many errors both in data and boundaries. You can contribute by sending the pull requests. Refer  CONTRIBUTING  for ways to contribute.   This projects run by  Data{Meet}  community. DataMeet is a community of Data Science and Open Data enthusiasts. Data{Meet} community encompass many people, ideas, projects, solutions, and challenges that using data in India presents. Join the the  Google Group  to be part of this community.", 
+            "title": "Spatial Data of Municipalities (Maps)"
+        }, 
+        {
+            "location": "/#structure", 
+            "text": "Each city has a folder, for example city of Bangalore will have folder called  Bangalore  folder. It will contain    A geojson file  BBMP.GeoJSON  which is our map file", 
+            "title": "Structure"
+        }, 
+        {
+            "location": "/#geojson-attributes", 
+            "text": "Each boundary will have the attributes as per avilability.", 
+            "title": "GeoJson Attributes"
+        }, 
+        {
+            "location": "/#download", 
+            "text": "You can download the whole repository as a zip file to get everything you want. Using the button below.  \n    Download Everything  If you are in exploring mode then to go to the specific city map page. In city page you can see a very rough version of the city map and notes related to that map.You can also download the full version state map from city page. If you just want to download the map.  Right click on download link -  Save link as .  \n     \n         City \n         Status \n         Download \n      \n     \n         Bangalore - BBMP \n         Complete \n         Download", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/#license", 
+            "text": "All our work will be under  Creative Commons Attribution-ShareAlike 2.5 India . This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections but please source them to an official source. Refer  CONTRIBUTING.md  for ways to contribute.", 
+            "title": "License"
+        }, 
+        {
+            "location": "/#attribute", 
+            "text": "Please use the following lines to attribute the maps if you use in your work. You could link instead of printing the URLs in case of web projects. \nMaps Provided by Spatial Data of Municipalities (Maps) Project [http://projects.datameet.org/Municipal_Spatial_Data/] by Data{Meet}. Its made available under the  Creative Commons Attribution-ShareAlike 2.5 India .", 
+            "title": "Attribute"
+        }, 
+        {
+            "location": "/#issues", 
+            "text": "If you have any issues with the maps, please report them on the github repository:  Report Issue  Active Issues", 
+            "title": "Issues"
+        }, 
+        {
+            "location": "/#repository", 
+            "text": "GitHub", 
+            "title": "Repository"
+        }, 
+        {
+            "location": "/#community", 
+            "text": "", 
+            "title": "Community"
+        }, 
+        {
+            "location": "/indian_village_boundaries/", 
+            "text": "window.location.href=\"http://projects.datameet.org/indian_village_boundaries/\";", 
+            "title": "India Village Boundaries(Maps)"
         }
     ]
 }
