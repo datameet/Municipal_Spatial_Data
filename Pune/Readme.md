@@ -3,7 +3,9 @@ Pune Municipal Data
 
 This Repository contains Ward data related to the Pune Municipal Corporation.
 
-* pune-electoral-wards.geojson
+* pune-electoral-wards_2012.geojson
+ 
+	The previous electoral Wards
 
 Source: http://pmcelection.mahasec.com/admin/inbox/map_pune/ (scraped)
 
