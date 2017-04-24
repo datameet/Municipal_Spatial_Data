@@ -8,6 +8,7 @@ pages:
     - Municipalities:
         - Ahmedabad: ahmedabad.md
         - Bangalore: bangalore.md
+	- Pune: pune.md
     - Maps:
       - 'Assembly Constituencies': 'assembly-constituencies.md'
       - 'Parliamentary constituencies': 'parliamentary-constituencies.md'
