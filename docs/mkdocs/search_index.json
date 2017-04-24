@@ -171,6 +171,31 @@
             "title": "Supporting Documents"
         }, 
         {
+            "location": "/pune/", 
+            "text": "Pune\n\n\nQuick View\n\n\n\n\nDownload\n\n\nDownload the full map file by Right Click -\n Save Link As\n\n\n Download Map File\n\n\nSupporting Documents\n\n\n\n\nNot yet\n\n\n\n\n\nvar map_path = 'https://cdn.rawgit.com/datameet/Municipal_Spatial_Data/bf31a482/Pune/pune-admin-wards.geojson';", 
+            "title": "Pune"
+        }, 
+        {
+            "location": "/pune/#pune", 
+            "text": "", 
+            "title": "Pune"
+        }, 
+        {
+            "location": "/pune/#quick-view", 
+            "text": "", 
+            "title": "Quick View"
+        }, 
+        {
+            "location": "/pune/#download", 
+            "text": "Download the full map file by Right Click -  Save Link As   Download Map File", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/pune/#supporting-documents", 
+            "text": "Not yet   \nvar map_path = 'https://cdn.rawgit.com/datameet/Municipal_Spatial_Data/bf31a482/Pune/pune-admin-wards.geojson';", 
+            "title": "Supporting Documents"
+        }, 
+        {
             "location": "/assembly-constituencies/", 
             "text": "window.location.href=\"http://projects.datameet.org/maps/assembly-constituencies/\";", 
             "title": "Assembly Constituencies"
