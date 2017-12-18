@@ -1,8 +1,10 @@
 Mumbai Municipal Data
 ====
 
-This Repository contains Ward of the Brihanmumbai Municipal Corporation (BMC) also known as. Municipal Corporation of Greater Mumbai .
+This Repository contains 
 
+1. Ward of the Brihanmumbai Municipal Corporation (BMC) also known as Municipal Corporation of Greater Mumbai.
+1. Slum clusters map extracted from [http://www.sra.gov.in/upload/MUMABI_CA_MAP_MUMBAI_GLOBAL_42X72_SLUMCLUSTER.pdf]
 
 
 ====
