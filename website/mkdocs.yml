@@ -8,6 +8,14 @@ pages:
     - Municipalities:
         - Ahmedabad: ahmedabad.md
         - Bangalore: bangalore.md
+        - Pune: pune.md
+    - Maps:
+      - 'Assembly Constituencies': 'assembly-constituencies.md'
+      - 'Parliamentary constituencies': 'parliamentary-constituencies.md'
+      - 'States': 'states.md'
+      - 'Districts': 'districts.md'
+      - 'Spatial data of Municipalities': 'index.md'
+      - 'India Village Boundaries(Maps)': 'indian_village_boundaries.md'
 site_dir: './../docs'
 extra_css:
     - css/extra.css
