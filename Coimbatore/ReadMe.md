@@ -4,7 +4,7 @@ Coimbatore Municipal Data
 
 The files
 
-1. Cbe2011Wards.geojson contains the ward map of Coimbatore reorganized 
+1. Cbe2011Wards.geojson contains the ward map of Coimbatore reroganized 
    (100 wards)
 2. CbeCensus2011Wards.geojson contains the ward map of Coimbatore as per
    the Census of India 2011 (72 wards), this is georefenced from a web image
