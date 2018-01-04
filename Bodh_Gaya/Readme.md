@@ -3,15 +3,15 @@ Bodh Gaya Municipal Spatial Data
 
 This Repository contains Ward data related to Bodh Gaya.
 
-* Bodh Gaya_Boundary.geojson
+* Bodh_Gaya_Boundary.geojson
 
 Bodh Gaya Boundary in GeoJSON Format
 
-* Bodh Gaya_Wards.geojson
+* Bodh_Gaya_Wards.geojson
 
 Bodh Gaya Ward Boundaries in GeoJSON Format
 
-* Bodh Gaya_Boundary-SHP.zip
+* Bodh_Gaya_Boundary-SHP.zip
 
 Bodh Gaya Boundary in Shapefile Format
 
