@@ -15,7 +15,7 @@ Katihar Ward Boundaries in GeoJSON Format
 
 Katihar Boundary in Shapefile Format
 
-* Bodh Gaya_Wards-SHP.zip
+* Katihar_Wards-SHP.zip
 
 Katihar Ward Boundaries in Shapefile Format
 
