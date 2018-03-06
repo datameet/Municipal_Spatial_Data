@@ -1,0 +1,6207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="New_Group_Layer" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Faridabad Wards</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle20">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle10">
+		<IconStyle>
+			<scale>0.0625</scale>
+			<Icon>
+				<href>Layer1_Symbol_ae90e30_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000e6</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="GroupLayer0">
+		<name>New Group Layer</name>
+		<Snippet maxLines="0"></Snippet>
+		<Folder id="FeatureLayer1">
+			<name>Faridabad_Wards_FeatureToPoi</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_10000">
+				<name>40</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>40</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.11825</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.31611124683661,28.31244829904983,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10001">
+				<name>39</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>39</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.078286</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.33377772336331,28.32748929479516,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10002">
+				<name>38</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>38</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.058469</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.31995719486872,28.330130856354,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10003">
+				<name>1</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.154172</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>3</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.28339093044713,28.33497483781855,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10004">
+				<name>37</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>37</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.064772</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>4</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.32411573195554,28.34500262397199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10005">
+				<name>35</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>35</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.043074</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>5</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.33618351145992,28.35163441719465,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10006">
+				<name>3</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.051845</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>6</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.29362303537482,28.3528763044979,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10007">
+				<name>5</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.07278</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>7</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.28381563978002,28.35287899886674,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10008">
+				<name>36</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>36</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.131862</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>8</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.34003209360628,28.33976003509758,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10009">
+				<name>4</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.04738</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>9</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.29417323880398,28.36142810622215,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10010">
+				<name>6</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.054894</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>10</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.27904368411879,28.36171596931661,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10011">
+				<name>34</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>34</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.070037</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>11</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.3314565093105,28.36248170336796,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10012">
+				<name>7</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>7</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.047023</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>12</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.28597125626851,28.36910859618484,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10013">
+				<name>2</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.1664</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>13</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.309073526622,28.35100645748207,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10014">
+				<name>8</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>8</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.074002</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>14</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.27890945850476,28.37532558250967,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10015">
+				<name>33</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>33</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.127413</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>15</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.33327664989753,28.3759881984966,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10016">
+				<name>9</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>9</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.147207</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>16</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.26419941507101,28.36705137811867,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10017">
+				<name>10</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>10</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.058652</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>17</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.28122186189944,28.38617626272441,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10018">
+				<name>12</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>12</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.06627</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>18</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.30100796494565,28.38335571359534,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10019">
+				<name>13</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>13</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.069074</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>19</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.31095327067698,28.37726879711732,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10020">
+				<name>11</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>11</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.092098</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>20</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.28708793456059,28.38833695588585,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10021">
+				<name>15</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>15</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.059147</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>21</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.29235363151491,28.39718097791985,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10022">
+				<name>32</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>32</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.116189</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>22</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.32382042517253,28.39230997992166,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10023">
+				<name>14</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>14</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.063667</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>23</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.30129104094885,28.40333794169271,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10024">
+				<name>17</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.043091</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>24</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.28847353082887,28.40786419447704,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10025">
+				<name>16</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>16</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.219793</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>25</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.25161126804562,28.39651734749765,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10026">
+				<name>31</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>31</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.113422</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>26</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.31399044850048,28.40897222668696,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10027">
+				<name>30</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>30</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.056037</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>27</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.31365832976815,28.42202431237217,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10028">
+				<name>29</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.0479</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>28</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.32173788939213,28.42568019408571,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10029">
+				<name>19</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>19</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.098833</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>29</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.29884682931777,28.421548155523,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10030">
+				<name>28</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>28</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.176255</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>30</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.34384469028026,28.42054007486462,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10031">
+				<name>27</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>27</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.077045</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>31</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.31762166630693,28.4379151683504,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10032">
+				<name>26</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>26</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.129171</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>32</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.31873372478162,28.4542536555818,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10033">
+				<name>23</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>23</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.069286</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>33</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.32688445315506,28.48063685330817,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10034">
+				<name>22</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.142487</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>34</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.31605124406974,28.47814353149886,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10035">
+				<name>20</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.188311</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>35</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.29786699456622,28.45171642707152,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10036">
+				<name>21</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>21</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.100995</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>36</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.29317145250059,28.48274325799503,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10037">
+				<name>18</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>18</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.318129</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>37</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.26485416468802,28.45019332895902,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10038">
+				<name>24</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>24</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>38</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.34456567316732,28.48068254336471,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="ID_10039">
+				<name>25</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>25</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>39</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle10</styleUrl>
+				<Point>
+					<coordinates>77.34386588100568,28.49793424716785,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer2">
+			<name>Faridabad_Wards</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_20000">
+				<name>40</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>40</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.11825</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>40</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.31387719600008,28.32752984200005,0 77.31342999100008,28.32787306500006,0 77.31099963000008,28.32284724000004,0 77.31097701300007,28.32279858600003,0 77.30464672800008,28.30918063300004,0 77.29909316300007,28.30022795700006,0 77.29904995400005,28.30015830200006,0 77.30291076800006,28.29772443400003,0 77.30577046400003,28.29627665700008,0 77.30628910700006,28.29657134600006,0 77.30772458000007,28.29686303200003,0 77.30880119500006,28.29768944200004,0 77.31054037100006,28.29909916800006,0 77.31200345600007,28.29868590700005,0 77.31283164300004,28.29888032000002,0 77.31371504500004,28.29890458000006,0 77.31426715900005,28.29863717500007,0 77.31604284100007,28.30158908500005,0 77.31682689500008,28.30319943200004,0 77.31771558100007,28.30517791100004,0 77.32019634300008,28.30774274800007,0 77.32101295700005,28.30953955300004,0 77.32260888400003,28.31120560600004,0 77.32401930200007,28.31270835100003,0 77.32561380800007,28.31356551200003,0 77.32787043100007,28.31326636500006,0 77.32922701100006,28.31318471600002,0 77.33076849100007,28.31272301900003,0 77.33172414300003,28.31217998300008,0 77.33317320000003,28.31204399400008,0 77.33377979100004,28.31352498300004,0 77.33342271900006,28.31717367800007,0 77.33287775100007,28.32392551900006,0 77.32958061900007,28.32515673000006,0 77.32959551400006,28.32557091700005,0 77.32487037700008,28.32559762300008,0 77.32450662700006,28.32106528200006,0 77.31720960500007,28.32108203900003,0 77.31724933700008,28.32655768700005,0 77.31482813200006,28.32658384200006,0 77.31479866600006,28.32740256900007,0 77.31400322000008,28.32747436800003,0 77.31387719600008,28.32752984200005,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20001">
+				<name>39</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>39</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.078286</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>39</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.32781016700005,28.33614050000006,0 77.32564588100007,28.33703470900008,0 77.32563954800008,28.33702274500007,0 77.32516787300006,28.33613167700003,0 77.32443147200007,28.33489719000005,0 77.32488360800005,28.33448049000003,0 77.32445694200004,28.33407885900004,0 77.32545328600008,28.33264456700005,0 77.32512378100006,28.32875504800006,0 77.32487037700008,28.32559762300008,0 77.32959551400006,28.32557091700005,0 77.32958061900007,28.32515673000006,0 77.33287775100007,28.32392551900006,0 77.33342271900006,28.31717367800007,0 77.33377979100004,28.31352498300004,0 77.33433603100008,28.31488303900005,0 77.33512436400008,28.31520674000007,0 77.33611990400004,28.31542178000007,0 77.33813770700004,28.31742062600006,0 77.33877459400003,28.32202043600006,0 77.34039891900005,28.32261059000007,0 77.34117620300003,28.32416448800007,0 77.34136800100004,28.32867786000003,0 77.34283909200008,28.33016232000006,0 77.34436012200007,28.33110227200007,0 77.33980619100004,28.33115739900006,0 77.33973049100007,28.33446783900007,0 77.33450961200003,28.33449553200006,0 77.33410392700006,28.33437016300007,0 77.33375973200003,28.33416477300006,0 77.33256727900005,28.33269075500004,0 77.32942792700004,28.33498146000005,0 77.32781016700005,28.33614050000006,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20002">
+				<name>38</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>38</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.058469</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>38</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.31779837900007,28.34194182200002,0 77.31703933600005,28.34239092700005,0 77.31708142600007,28.34216048700006,0 77.31711020700004,28.34116912500008,0 77.31555100200006,28.33430071300006,0 77.31396839900003,28.32898645700004,0 77.31342999100008,28.32787306500006,0 77.31387719600008,28.32752984200005,0 77.31400322000008,28.32747436800003,0 77.31479866600006,28.32740256900007,0 77.31482813200006,28.32658384200006,0 77.31724933700008,28.32655768700005,0 77.31720960500007,28.32108203900003,0 77.32450662700006,28.32106528200006,0 77.32487037700008,28.32559762300008,0 77.32512378100006,28.32875504800006,0 77.32545328600008,28.33264456700005,0 77.32445694200004,28.33407885900004,0 77.32488360800005,28.33448049000003,0 77.32443147200007,28.33489719000005,0 77.32440945600007,28.33491748000006,0 77.32298933000004,28.33547639100004,0 77.32230078500004,28.33581739700003,0 77.32198268700006,28.33639655800005,0 77.32118422700006,28.33715045100007,0 77.32083718300004,28.33840344700008,0 77.32052473100004,28.33871927100006,0 77.32076229900008,28.33920780000005,0 77.31977001400009,28.33978639800006,0 77.31928031900003,28.34013808300006,0 77.31779837900007,28.34194182200002,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20003">
+				<name>1</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.154172</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.28987230800004,28.34898978300004,0 77.28967588000006,28.34912010500005,0 77.28966532100003,28.34722714500003,0 77.29066307100004,28.34641910800008,0 77.29022362400008,28.34605123500006,0 77.29013143500004,28.34598044500007,0 77.28934005100007,28.34544577100007,0 77.28867182500005,28.34524767800008,0 77.28803161800005,28.34508960900007,0 77.28699243700004,28.34495262400003,0 77.28611982000007,28.34494225500004,0 77.28538679000008,28.34508550300006,0 77.28482643400008,28.34528650500005,0 77.28441114800006,28.34538694300005,0 77.28398553500006,28.34523154400006,0 77.28376758700006,28.34492998900004,0 77.28350816800008,28.34438173400002,0 77.28353935900003,28.34417159200007,0 77.28357069600008,28.34328532500007,0 77.28309770500005,28.34330137200004,0 77.28118301900008,28.34336710800005,0 77.27975639800008,28.34349899700004,0 77.27816360900005,28.34335110700005,0 77.27797321800006,28.34333342900004,0 77.27802977200008,28.34244133500005,0 77.27791824000008,28.34236030700004,0 77.27752841900008,28.34207710400006,0 77.27552276600005,28.34098252700005,0 77.27433640800007,28.34011192700007,0 77.27419557000007,28.33876909900005,0 77.27445588100005,28.33465392500006,0 77.27421453400007,28.33284384500007,0 77.27506212100008,28.32996937700005,0 77.27697102700006,28.32933853500003,0 77.27934665300006,28.32850622400002,0 77.28021707500005,28.32825102000004,0 77.28177532200004,28.32738114700004,0 77.28344413600007,28.32663444400004,0 77.28438155000004,28.32641195000008,0 77.28653907300003,28.32584910800006,0 77.28920855500007,28.32558299900006,0 77.28907102400007,28.32385000500005,0 77.29116837400005,28.32438223000003,0 77.29262849600008,28.32308053100007,0 77.29287505300005,28.32247969900005,0 77.29226840600006,28.32181201500004,0 77.29137735400008,28.32132789700006,0 77.29058116300007,28.32054336500005,0 77.28948225900007,28.31936279400003,0 77.28875595500006,28.31864569000004,0 77.28749953700003,28.31512625200003,0 77.28680536700006,28.31379228200007,0 77.28670031500008,28.31295861300004,0 77.28587498300004,28.31139195100008,0 77.28869439800008,28.30891578700005,0 77.29112396000005,28.30682761000004,0 77.29232514500006,28.30544502100003,0 77.29437213200004,28.30275071400007,0 77.29558225300008,28.30168547000005,0 77.29909316300007,28.30022795700006,0 77.30464672800008,28.30918063300004,0 77.31097701300007,28.32279858600003,0 77.30980195200004,28.32351822000004,0 77.30745419200008,28.32477976000007,0 77.30401798900005,28.32669114200007,0 77.30302542500004,28.32807208400004,0 77.30278463600007,28.32968754200005,0 77.30282591400004,28.34387650900004,0 77.30281569600004,28.34745605500007,0 77.30153271200004,28.34778575300004,0 77.30018160000003,28.34805549000004,0 77.30009568300005,28.34805940400003,0 77.29890024500008,28.34811386800004,0 77.29616112900004,28.34872766000007,0 77.29514166500007,28.34894880000007,0 77.29443304300008,28.34902778900005,0 77.29398108500004,28.34895755500003,0 77.29269170500004,28.34868836200008,0 77.29190743200007,28.34869997800007,0 77.29032574100006,28.34877498000003,0 77.28987230800004,28.34898978300004,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20004">
+				<name>37</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>37</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.064772</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>37</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.32976238000003,28.35376450600006,0 77.32975924600004,28.35382961800008,0 77.32452940900004,28.35176018200008,0 77.32309016100004,28.35114002100005,0 77.32100467300006,28.34977034000008,0 77.31833770200007,28.34807977400004,0 77.31738368100008,28.34774401700003,0 77.31638997600004,28.34759473200006,0 77.31659069000006,28.34502023500005,0 77.31674945500004,28.34397800600004,0 77.31703933600005,28.34239092700005,0 77.31779837900007,28.34194182200002,0 77.31928031900003,28.34013808300006,0 77.31977001400009,28.33978639800006,0 77.32076229900008,28.33920780000005,0 77.32052473100004,28.33871927100006,0 77.32083718300004,28.33840344700008,0 77.32118422700006,28.33715045100007,0 77.32198268700006,28.33639655800005,0 77.32230078500004,28.33581739700003,0 77.32298933000004,28.33547639100004,0 77.32440945600007,28.33491748000006,0 77.32443147200007,28.33489719000005,0 77.32516787300006,28.33613167700003,0 77.32563954800008,28.33702274500007,0 77.32562956200007,28.33707113200006,0 77.32678641900003,28.33915623000007,0 77.32654437700006,28.33926646400006,0 77.32641085400007,28.33942076300008,0 77.32608536200007,28.33964855600004,0 77.32404405200003,28.34050157800004,0 77.32381955200003,28.34085571300005,0 77.32687998000006,28.34272287300007,0 77.32942241600006,28.34412607400003,0 77.32961185000005,28.34391758800007,0 77.32955196600005,28.34187031800008,0 77.33008439500003,28.34182529300006,0 77.33035423200005,28.34169043900005,0 77.33102221000007,28.34209791200004,0 77.33288432100005,28.34571958100003,0 77.33291152900006,28.34577249900008,0 77.33208268400006,28.34535746400007,0 77.32983697800006,28.34780845400007,0 77.32983395300005,28.35379069900006,0 77.32976238000003,28.35376450600006,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20005">
+				<name>35</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>35</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.043074</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>35</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.34162238700003,28.35815352300006,0 77.34136415200004,28.35860837800004,0 77.34137016600005,28.35853584100006,0 77.33890548400007,28.35711058800007,0 77.32983395300005,28.35379069900006,0 77.32983697800006,28.34780845400007,0 77.33208268400006,28.34535746400007,0 77.33291152900006,28.34577249900008,0 77.33288432100005,28.34571958100003,0 77.33419310700003,28.34632518100005,0 77.33532040800003,28.34683713500004,0 77.33874072700007,28.34809075900006,0 77.33970893900005,28.34831143000002,0 77.34188703200005,28.34867521600006,0 77.34257101200006,28.34873376200005,0 77.34162238700003,28.35815352300006,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20006">
+				<name>3</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.051845</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>3</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.29982404400005,28.35851072500003,0 77.29974994000008,28.35873892000006,0 77.29767046900008,28.35859141800006,0 77.29762944500004,28.35561100200005,0 77.29603903000003,28.35555533400003,0 77.29602102700005,28.35588128000006,0 77.29355508300006,28.35586942800006,0 77.29351114600007,28.35571877400002,0 77.29100207000005,28.35575566200004,0 77.29062140700006,28.35813376500005,0 77.28798555000003,28.35818543900007,0 77.28791105600004,28.35548041300007,0 77.28774055800005,28.35529568700002,0 77.28729457200006,28.35520327200004,0 77.28657309200008,28.35521470700007,0 77.28606324600008,28.35520575000004,0 77.28597223000008,28.35058212400003,0 77.28643176400004,28.35043391600004,0 77.28689127200005,28.35042050300007,0 77.28758057500005,28.35020492300004,0 77.28916307400004,28.34946032900007,0 77.28967588000006,28.34912010500005,0 77.28987230800004,28.34898978300004,0 77.29032574100006,28.34877498000003,0 77.29190743200007,28.34869997800007,0 77.29269170500004,28.34868836200008,0 77.29398108500004,28.34895755500003,0 77.29443304300008,28.34902778900005,0 77.29514166500007,28.34894880000007,0 77.29616112900004,28.34872766000007,0 77.29890024500008,28.34811386800004,0 77.30009568300005,28.34805940400003,0 77.30043955800005,28.34978184100004,0 77.30021089500008,28.35362522800006,0 77.29982404400005,28.35851072500003,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20007">
+				<name>5</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.07278</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>5</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.28991754500004,28.36399349800007,0 77.29040332100004,28.36480093700004,0 77.28787966200008,28.36477478300003,0 77.28788249200005,28.36328084000007,0 77.28378011200005,28.36329781800004,0 77.28373023600005,28.36317737200005,0 77.28217365500007,28.36317710200007,0 77.28211828800005,28.36316085100003,0 77.28206802100004,28.36045592300009,0 77.28191173700003,28.36047308600007,0 77.28192225800007,28.35908165500007,0 77.28036279700007,28.35910750800008,0 77.28040163600008,28.35691518800007,0 77.27974180900003,28.35685194500007,0 77.27973266300006,28.35209402200007,0 77.27963736300006,28.35170075700006,0 77.27805196700007,28.35237767600006,0 77.27813020000008,28.34679249300007,0 77.27816360900005,28.34335110700005,0 77.27975639800008,28.34349899700004,0 77.28118301900008,28.34336710800005,0 77.28309770500005,28.34330137200004,0 77.28357069600008,28.34328532500007,0 77.28353935900003,28.34417159200007,0 77.28350816800008,28.34438173400002,0 77.28376758700006,28.34492998900004,0 77.28398553500006,28.34523154400006,0 77.28441114800006,28.34538694300005,0 77.28482643400008,28.34528650500005,0 77.28538679000008,28.34508550300006,0 77.28611982000007,28.34494225500004,0 77.28699243700004,28.34495262400003,0 77.28803161800005,28.34508960900007,0 77.28867182500005,28.34524767800008,0 77.28934005100007,28.34544577100007,0 77.29013143500004,28.34598044500007,0 77.29022362400008,28.34605123500006,0 77.29066307100004,28.34641910800008,0 77.28966532100003,28.34722714500003,0 77.28967588000006,28.34912010500005,0 77.28916307400004,28.34946032900007,0 77.28758057500005,28.35020492300004,0 77.28689127200005,28.35042050300007,0 77.28643176400004,28.35043391600004,0 77.28597223000008,28.35058212400003,0 77.28606324600008,28.35520575000004,0 77.28657309200008,28.35521470700007,0 77.28729457200006,28.35520327200004,0 77.28774055800005,28.35529568700002,0 77.28791105600004,28.35548041300007,0 77.28798555000003,28.35818543900007,0 77.28801600000008,28.35929114900007,0 77.28876220800004,28.36061689000007,0 77.28895212700007,28.36111850900005,0 77.28903218200009,28.36240502400005,0 77.28939896000009,28.36302769100007,0 77.28991754500004,28.36399349800007,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20008">
+				<name>36</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>36</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.131862</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>36</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.34774133900004,28.36274123700002,0 77.34690607900006,28.36820515800002,0 77.34632518500007,28.36741577900006,0 77.34500562400007,28.36736971800008,0 77.34431945700004,28.36736991300006,0 77.34352758200004,28.36695213800005,0 77.34231351100004,28.36672025000007,0 77.34072768100003,28.36628464900008,0 77.34136415200004,28.35860837800004,0 77.34162238700003,28.35815352300006,0 77.34257101200006,28.34873376200005,0 77.34188703200005,28.34867521600006,0 77.33970893900005,28.34831143000002,0 77.33874072700007,28.34809075900006,0 77.33532040800003,28.34683713500004,0 77.33419310700003,28.34632518100005,0 77.33288432100005,28.34571958100003,0 77.33102221000007,28.34209791200004,0 77.33035423200005,28.34169043900005,0 77.33008439500003,28.34182529300006,0 77.32955196600005,28.34187031800008,0 77.32961185000005,28.34391758800007,0 77.32942241600006,28.34412607400003,0 77.32687998000006,28.34272287300007,0 77.32381955200003,28.34085571300005,0 77.32404405200003,28.34050157800004,0 77.32608536200007,28.33964855600004,0 77.32641085400007,28.33942076300008,0 77.32654437700006,28.33926646400006,0 77.32678641900003,28.33915623000007,0 77.32562956200007,28.33707113200006,0 77.32563954800008,28.33702274500007,0 77.32564588100007,28.33703470900008,0 77.32781016700005,28.33614050000006,0 77.32942792700004,28.33498146000005,0 77.33256727900005,28.33269075500004,0 77.33375973200003,28.33416477300006,0 77.33410392700006,28.33437016300007,0 77.33450961200003,28.33449553200006,0 77.33973049100007,28.33446783900007,0 77.33980619100004,28.33115739900006,0 77.34436012200007,28.33110227200007,0 77.34441600400004,28.33113680600009,0 77.34509464600006,28.33471380800006,0 77.34649465900003,28.33507111700004,0 77.34920408800008,28.33511003700005,0 77.34925037500005,28.33797178400005,0 77.34776050500005,28.33892619400007,0 77.34645094100006,28.33908559400004,0 77.34657432300008,28.34000134500008,0 77.34844870700005,28.34160537200006,0 77.34936076100007,28.34285311900004,0 77.35142789200006,28.34334027800003,0 77.35252564300004,28.34412179300006,0 77.35455849700009,28.34435667600008,0 77.35545959600006,28.34559689900004,0 77.35561664200003,28.34652725500007,0 77.35624463600004,28.34976631800004,0 77.35605180500005,28.35356121800004,0 77.35404966700008,28.35503071600004,0 77.35091238500007,28.35632436300006,0 77.34951066700006,28.35720614500008,0 77.34774133900004,28.36274123700002,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20009">
+				<name>4</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.04738</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>4</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.29557894600004,28.36851691500004,0 77.29373041800005,28.36921668400004,0 77.29327225700007,28.36889784900006,0 77.29241183000005,28.36781601000007,0 77.29241276900007,28.36781566700006,0 77.29208056500005,28.36711171500008,0 77.29171033400007,28.36664735200003,0 77.29097752900003,28.36565286900003,0 77.29047233700004,28.36491565400008,0 77.29040332100004,28.36480093700004,0 77.28991754500004,28.36399349800007,0 77.28939896000009,28.36302769100007,0 77.28903218200009,28.36240502400005,0 77.28895212700007,28.36111850900005,0 77.28876220800004,28.36061689000007,0 77.28801600000008,28.35929114900007,0 77.28798555000003,28.35818543900007,0 77.29062140700006,28.35813376500005,0 77.29100207000005,28.35575566200004,0 77.29351114600007,28.35571877400002,0 77.29355508300006,28.35586942800006,0 77.29602102700005,28.35588128000006,0 77.29603903000003,28.35555533400003,0 77.29762944500004,28.35561100200005,0 77.29767046900008,28.35859141800006,0 77.29974994000008,28.35873892000006,0 77.29976714000003,28.35874014000007,0 77.29914225900006,28.36588936800007,0 77.29451482600007,28.36566742600007,0 77.29436020200006,28.36794011700005,0 77.29557894600004,28.36851691500004,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20010">
+				<name>6</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.054894</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>6</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.28219157500007,28.36710448600007,0 77.28220767700003,28.37103949500006,0 77.27702285600003,28.37100281000005,0 77.27707384000007,28.36935870000008,0 77.27956095500008,28.36931477800005,0 77.27951544900003,28.36606209900003,0 77.27706107500006,28.36606415300003,0 77.27697822000005,28.36604226100008,0 77.27702246900003,28.36445173000004,0 77.27627735500005,28.36424080200004,0 77.27704044500007,28.36361648200005,0 77.27701216600008,28.36347129800004,0 77.27591078900008,28.36213452300007,0 77.27587560300003,28.35828995800006,0 77.27588106000007,28.35347154100003,0 77.27773707500006,28.35258711900008,0 77.27805138300005,28.35241937000006,0 77.27805196700007,28.35237767600006,0 77.27963736300006,28.35170075700006,0 77.27973266300006,28.35209402200007,0 77.27974180900003,28.35685194500007,0 77.28040163600008,28.35691518800007,0 77.28036279700007,28.35910750800008,0 77.28192225800007,28.35908165500007,0 77.28191173700003,28.36047308600007,0 77.28206802100004,28.36045592300009,0 77.28211828800005,28.36316085100003,0 77.28219157500007,28.36710448600007,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20011">
+				<name>34</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>34</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.070037</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>34</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.34062431100006,28.36625625500005,0 77.33985789100007,28.37252952500006,0 77.33845039300007,28.37244294300007,0 77.33860804900007,28.36986393800004,0 77.32175904100006,28.36884523100002,0 77.32297446900003,28.35426865200003,0 77.32971464000008,28.35475624800007,0 77.32975924600004,28.35382961800008,0 77.32976238000003,28.35376450600006,0 77.32983395300005,28.35379069900006,0 77.33890548400007,28.35711058800007,0 77.34137016600005,28.35853584100006,0 77.34136415200004,28.35860837800004,0 77.34072768100003,28.36628464900008,0 77.34062431100006,28.36625625500005,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20012">
+				<name>7</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>7</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.047023</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>7</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.28478678800008,28.37490336000008,0 77.28222927200005,28.37631669200005,0 77.28220767700003,28.37103949500006,0 77.28219157500007,28.36710448600007,0 77.28211828800005,28.36316085100003,0 77.28217365500007,28.36317710200007,0 77.28373023600005,28.36317737200005,0 77.28378011200005,28.36329781800004,0 77.28788249200005,28.36328084000007,0 77.28787966200008,28.36477478300003,0 77.29040332100004,28.36480093700004,0 77.29047233700004,28.36491565400008,0 77.29097752900003,28.36565286900003,0 77.29171033400007,28.36664735200003,0 77.29208056500005,28.36711171500008,0 77.29241276900007,28.36781566700006,0 77.29241183000005,28.36781601000007,0 77.29176044000008,28.36805384600007,0 77.29131745300003,28.36749066400006,0 77.28992204600007,28.36842098900008,0 77.28911999500008,28.36738345200007,0 77.28898621700006,28.36783263400002,0 77.28904646400008,28.36799546400005,0 77.28877287300008,28.36826621200004,0 77.28898937800005,28.36857714100006,0 77.28906910600006,28.36891813700004,0 77.28896647900007,28.36919893500004,0 77.28868149600004,28.36941953600007,0 77.28880682100004,28.36972042200006,0 77.28873838800007,28.36999119500007,0 77.28873833200004,28.37032215300008,0 77.28892065800005,28.37056287300004,0 77.28905736900003,28.37095402500006,0 77.28944485700004,28.37123489000004,0 77.28982093300004,28.37163610600004,0 77.28977876500005,28.37234811900004,0 77.28959683400007,28.37465378500008,0 77.28534513200003,28.37458629200006,0 77.28509010700003,28.37474942100005,0 77.28509254200003,28.37479080600008,0 77.28478678800008,28.37490336000008,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20013">
+				<name>2</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.1664</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.30944121400006,28.37810169500006,0 77.30681328700007,28.37811304700006,0 77.30681607200006,28.37800931100003,0 77.29770958800003,28.37759082700006,0 77.29719317200005,28.37753729000009,0 77.29038888000008,28.37711189800007,0 77.28921094800006,28.37703157200008,0 77.28921243000008,28.37704447500005,0 77.28869532200008,28.37687060400003,0 77.28496348800007,28.37660722700008,0 77.28513630900005,28.37553467900005,0 77.28509254200003,28.37479080600008,0 77.28509010700003,28.37474942100005,0 77.28534513200003,28.37458629200006,0 77.28959683400007,28.37465378500008,0 77.28977876500005,28.37234811900004,0 77.28982093300004,28.37163610600004,0 77.28944485700004,28.37123489000004,0 77.28905736900003,28.37095402500006,0 77.28892065800005,28.37056287300004,0 77.28873833200004,28.37032215300008,0 77.28873838800007,28.36999119500007,0 77.28880682100004,28.36972042200006,0 77.28868149600004,28.36941953600007,0 77.28896647900007,28.36919893500004,0 77.28906910600006,28.36891813700004,0 77.28898937800005,28.36857714100006,0 77.28877287300008,28.36826621200004,0 77.28904646400008,28.36799546400005,0 77.28898621700006,28.36783263400002,0 77.28911999500008,28.36738345200007,0 77.28992204600007,28.36842098900008,0 77.29131745300003,28.36749066400006,0 77.29176044000008,28.36805384600007,0 77.29241183000005,28.36781601000007,0 77.29327225700007,28.36889784900006,0 77.29373041800005,28.36921668400004,0 77.29557894600004,28.36851691500004,0 77.29436020200006,28.36794011700005,0 77.29451482600007,28.36566742600007,0 77.29914225900006,28.36588936800007,0 77.29976714000003,28.35874014000007,0 77.29974994000008,28.35873892000006,0 77.29982404400005,28.35851072500003,0 77.30021089500008,28.35362522800006,0 77.30043955800005,28.34978184100004,0 77.30009568300005,28.34805940400003,0 77.30018160000003,28.34805549000004,0 77.30153271200004,28.34778575300004,0 77.30281569600004,28.34745605500007,0 77.30282591400004,28.34387650900004,0 77.30278463600007,28.32968754200005,0 77.30302542500004,28.32807208400004,0 77.30401798900005,28.32669114200007,0 77.30745419200008,28.32477976000007,0 77.30980195200004,28.32351822000004,0 77.31097701300007,28.32279858600003,0 77.31099963000008,28.32284724000004,0 77.31342999100008,28.32787306500006,0 77.31396839900003,28.32898645700004,0 77.31555100200006,28.33430071300006,0 77.31711020700004,28.34116912500008,0 77.31708142600007,28.34216048700006,0 77.31703933600005,28.34239092700005,0 77.31674945500004,28.34397800600004,0 77.31659069000006,28.34502023500005,0 77.31638997600004,28.34759473200006,0 77.31501763900008,28.36519726500006,0 77.31084015100004,28.36559473000006,0 77.31032893400004,28.36563223100006,0 77.30944121400006,28.37810169500006,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20014">
+				<name>8</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>8</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.074002</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>8</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.28594892900009,28.38189867600005,0 77.28582762500008,28.38273899300003,0 77.28215229600005,28.38254743400006,0 77.27890619000004,28.38255973200006,0 77.28078841900003,28.38052472100003,0 77.28036257300005,28.38053802000007,0 77.28016482000004,28.38069855100002,0 77.27572363700006,28.38065199000005,0 77.27708525600008,28.37963278100006,0 77.27307287000008,28.37963018500005,0 77.27292215500006,28.37970527700003,0 77.27245847200004,28.37960916100008,0 77.27247693500004,28.37678193100004,0 77.27256364800007,28.36944667600005,0 77.27376999700005,28.36752609900003,0 77.27509158200007,28.36609950600007,0 77.27697778800007,28.36605778000006,0 77.27697822000005,28.36604226100008,0 77.27706107500006,28.36606415300003,0 77.27951544900003,28.36606209900003,0 77.27956095500008,28.36931477800005,0 77.27707384000007,28.36935870000008,0 77.27702285600003,28.37100281000005,0 77.28220767700003,28.37103949500006,0 77.28222927200005,28.37631669200005,0 77.28478678800008,28.37490336000008,0 77.28509254200003,28.37479080600008,0 77.28513630900005,28.37553467900005,0 77.28496348800007,28.37660722700008,0 77.28869532200008,28.37687060400003,0 77.28921243000008,28.37704447500005,0 77.28922251500006,28.37713225700004,0 77.28892688600007,28.37728976800003,0 77.28792143000004,28.37854826200005,0 77.28693528300005,28.37980674900007,0 77.28594892900009,28.38189867600005,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20015">
+				<name>33</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>33</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.127413</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>33</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.33922179800004,28.37773604400007,0 77.33881708000007,28.38279882500007,0 77.32248895200007,28.38172601000008,0 77.31353292600005,28.38117820500003,0 77.31353722700004,28.38113042100002,0 77.31476922800005,28.36838355100008,0 77.31501763900008,28.36519726500006,0 77.31638997600004,28.34759473200006,0 77.31738368100008,28.34774401700003,0 77.31833770200007,28.34807977400004,0 77.32100467300006,28.34977034000008,0 77.32309016100004,28.35114002100005,0 77.32452940900004,28.35176018200008,0 77.32975924600004,28.35382961800008,0 77.32971464000008,28.35475624800007,0 77.32297446900003,28.35426865200003,0 77.32175904100006,28.36884523100002,0 77.33860804900007,28.36986393800004,0 77.33845039300007,28.37244294300007,0 77.33985789100007,28.37252952500006,0 77.33922179800004,28.37773604400007,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20016">
+				<name>9</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>9</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.147207</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>9</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.26900071800003,28.38585389300005,0 77.26798127500007,28.38625325500004,0 77.26696222900006,28.38558039500003,0 77.26608182700005,28.38399443100008,0 77.26486404000008,28.38394822300006,0 77.26363750500008,28.38372101200002,0 77.26196283600007,28.38362083700002,0 77.26078166100007,28.38340786900005,0 77.25854377600007,28.38298263100007,0 77.25682488100006,28.38219081400007,0 77.25340008100005,28.38127035000008,0 77.25121731600007,28.38083208600006,0 77.24984353600007,28.38086852200007,0 77.24978581300007,28.38098053200002,0 77.24911766300005,28.38061437000005,0 77.25051418900006,28.37878818000007,0 77.25090569800005,28.37863860600004,0 77.25093787500003,28.37556560300004,0 77.24979659200005,28.37567850000005,0 77.24918943900008,28.37517619400006,0 77.24744078200007,28.37519164100007,0 77.24754850800008,28.37394345600006,0 77.24608255300007,28.37390795200003,0 77.24456686100007,28.37219209100005,0 77.24946911200004,28.36909934200003,0 77.25388297100005,28.36649383000002,0 77.26103030100006,28.35947881500005,0 77.26044159100007,28.35647004000003,0 77.25968884400004,28.35448017200002,0 77.25811107400006,28.35232558600006,0 77.26079435600008,28.35153949000005,0 77.26258330700006,28.35067810000004,0 77.26324520300005,28.35147343500006,0 77.26484589200004,28.35150747500006,0 77.26889954300003,28.35145956500003,0 77.26892371100007,28.35013333100005,0 77.27218238000006,28.35011506200004,0 77.27791824000008,28.34236030700004,0 77.27802977200008,28.34244133500005,0 77.27797321800006,28.34333342900004,0 77.27816360900005,28.34335110700005,0 77.27813020000008,28.34679249300007,0 77.27805196700007,28.35237767600006,0 77.27805138300005,28.35241937000006,0 77.27773707500006,28.35258711900008,0 77.27588106000007,28.35347154100003,0 77.27587560300003,28.35828995800006,0 77.27591078900008,28.36213452300007,0 77.27701216600008,28.36347129800004,0 77.27704044500007,28.36361648200005,0 77.27627735500005,28.36424080200004,0 77.27702246900003,28.36445173000004,0 77.27697822000005,28.36604226100008,0 77.27697778800007,28.36605778000006,0 77.27509158200007,28.36609950600007,0 77.27376999700005,28.36752609900003,0 77.27256364800007,28.36944667600005,0 77.27247693500004,28.37678193100004,0 77.27245847200004,28.37960916100008,0 77.27292215500006,28.37970527700003,0 77.27305546800005,28.37973291100008,0 77.27305537300003,28.38004190500004,0 77.26991213500008,28.38010289200003,0 77.26740457500006,28.38008469700003,0 77.26763597700005,28.38437317400008,0 77.26797084600008,28.38448898600007,0 77.26835849300005,28.38482049900006,0 77.26896767900007,28.38528853700007,0 77.26948832900007,28.38550312300004,0 77.26946717200008,28.38552106100008,0 77.26917801800005,28.38576621600004,0 77.26900071800003,28.38585389300005,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20017">
+				<name>10</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>10</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.058652</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>10</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.28458871100008,28.39087146400004,0 77.28473722600006,28.39136506200003,0 77.28406445600007,28.39133485300005,0 77.28309532500003,28.39081305200006,0 77.28136046300006,28.38986811800004,0 77.27981590300004,28.38912645000005,0 77.27875368400004,28.38825916000008,0 77.27765043900007,28.38785897200006,0 77.27604017300007,28.38728938000003,0 77.27470720600007,28.38689149600003,0 77.27464704800008,28.38695846500009,0 77.27346724000006,28.38674938800006,0 77.27229908700008,28.38637357700003,0 77.27085786200007,28.38580863700003,0 77.26969773800005,28.38553672700004,0 77.26946717200008,28.38552106100008,0 77.26948832900007,28.38550312300004,0 77.26896767900007,28.38528853700007,0 77.26835849300005,28.38482049900006,0 77.26797084600008,28.38448898600007,0 77.26763597700005,28.38437317400008,0 77.26740457500006,28.38008469700003,0 77.26991213500008,28.38010289200003,0 77.27305537300003,28.38004190500004,0 77.27305546800005,28.37973291100008,0 77.27292215500006,28.37970527700003,0 77.27307287000008,28.37963018500005,0 77.27708525600008,28.37963278100006,0 77.27572363700006,28.38065199000005,0 77.28016482000004,28.38069855100002,0 77.28036257300005,28.38053802000007,0 77.28078841900003,28.38052472100003,0 77.27890619000004,28.38255973200006,0 77.28215229600005,28.38254743400006,0 77.28582762500008,28.38273899300003,0 77.28556157400004,28.38458203200003,0 77.28465861700005,28.39026779000005,0 77.28458871100008,28.39087146400004,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20018">
+				<name>12</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>12</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.06627</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>12</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.30777384000004,28.39240135200004,0 77.30579918500007,28.39241261200004,0 77.30164130500003,28.39223346300003,0 77.30164146600004,28.39223228700007,0 77.30143614800005,28.39008534100003,0 77.30120254000008,28.38932606300006,0 77.30113585000004,28.38910930400004,0 77.30041964500003,28.38758422900003,0 77.29958782500006,28.38648613400005,0 77.29852492800006,28.38526599500005,0 77.29788258900004,28.38491005900005,0 77.29522193800005,28.38328040900007,0 77.29617122900004,28.38308891300005,0 77.29688715700007,28.38259617000006,0 77.29736626600004,28.38197486500008,0 77.29738641700004,28.38089953300005,0 77.29343769700006,28.38061322400006,0 77.29168838700008,28.38086701800006,0 77.29092891000005,28.38115227100008,0 77.28937000600007,28.37841607100006,0 77.28922251500006,28.37713225700004,0 77.28921243000008,28.37704447500005,0 77.28921094800006,28.37703157200008,0 77.29038888000008,28.37711189800007,0 77.29719317200005,28.37753729000009,0 77.29770958800003,28.37759082700006,0 77.30681607200006,28.37800931100003,0 77.30681328700007,28.37811304700006,0 77.30677697300007,28.37946571500004,0 77.30664380700006,28.38034648800004,0 77.30678142900007,28.38133335000003,0 77.30693875600008,28.38214708200007,0 77.30701735700006,28.38309931700007,0 77.30694169700007,28.38477969100006,0 77.30684173800006,28.38666088200006,0 77.30624969500008,28.38922643900003,0 77.30781717100007,28.38929405500005,0 77.30787504100005,28.39070316600004,0 77.30777384000004,28.39240135200004,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20019">
+				<name>13</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>13</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.069074</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>13</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.30848301600008,28.39230409100003,0 77.30846935100004,28.39250775800008,0 77.30777037800004,28.39245944900006,0 77.30777384000004,28.39240135200004,0 77.30787504100005,28.39070316600004,0 77.30781717100007,28.38929405500005,0 77.30624969500008,28.38922643900003,0 77.30684173800006,28.38666088200006,0 77.30694169700007,28.38477969100006,0 77.30701735700006,28.38309931700007,0 77.30693875600008,28.38214708200007,0 77.30678142900007,28.38133335000003,0 77.30664380700006,28.38034648800004,0 77.30677697300007,28.37946571500004,0 77.30681328700007,28.37811304700006,0 77.30944121400006,28.37810169500006,0 77.31032893400004,28.36563223100006,0 77.31084015100004,28.36559473000006,0 77.31501763900008,28.36519726500006,0 77.31476922800005,28.36838355100008,0 77.31353722700004,28.38113042100002,0 77.31353292600005,28.38117820500003,0 77.31315838500007,28.38533985500004,0 77.31056990700006,28.38511222700004,0 77.30975020300008,28.38444172200008,0 77.30913184400004,28.38446703700004,0 77.30848301600008,28.39230409100003,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20020">
+				<name>11</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>11</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.092098</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>11</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.28379884600008,28.39636968700006,0 77.28289090800007,28.39734331800003,0 77.28176650100005,28.39690786800003,0 77.28152670500003,28.39649895800005,0 77.28052231900006,28.39585249800007,0 77.27917312200003,28.39511363500003,0 77.27941308600003,28.39482352000005,0 77.27882845100004,28.39444090900003,0 77.27857349100003,28.39473102100004,0 77.27750617800007,28.39441820600007,0 77.27706521400006,28.39492624800005,0 77.27644209500005,28.39452495100005,0 77.27674621900007,28.39413722900002,0 77.27587990700005,28.39369576000007,0 77.27526565200003,28.39425844400006,0 77.27428950000007,28.39400057500006,0 77.27387467800008,28.39376430800007,0 77.27319158900008,28.39292682200005,0 77.27272814400004,28.39213233200007,0 77.27284869000005,28.39128670000002,0 77.27165157400003,28.39027581300007,0 77.27286835300004,28.38893855000003,0 77.27464704800008,28.38695846500009,0 77.27470720600007,28.38689149600003,0 77.27604017300007,28.38728938000003,0 77.27765043900007,28.38785897200006,0 77.27875368400004,28.38825916000008,0 77.27981590300004,28.38912645000005,0 77.28136046300006,28.38986811800004,0 77.28309532500003,28.39081305200006,0 77.28406445600007,28.39133485300005,0 77.28473722600006,28.39136506200003,0 77.28458871100008,28.39087146400004,0 77.28465861700005,28.39026779000005,0 77.28556157400004,28.38458203200003,0 77.28582762500008,28.38273899300003,0 77.28594892900009,28.38189867600005,0 77.28693528300005,28.37980674900007,0 77.28792143000004,28.37854826200005,0 77.28892688600007,28.37728976800003,0 77.28922251500006,28.37713225700004,0 77.28937000600007,28.37841607100006,0 77.29092891000005,28.38115227100008,0 77.29168838700008,28.38086701800006,0 77.29343769700006,28.38061322400006,0 77.29738641700004,28.38089953300005,0 77.29736626600004,28.38197486500008,0 77.29688715700007,28.38259617000006,0 77.29617122900004,28.38308891300005,0 77.29522193800005,28.38328040900007,0 77.29788258900004,28.38491005900005,0 77.29852492800006,28.38526599500005,0 77.29958782500006,28.38648613400005,0 77.30041964500003,28.38758422900003,0 77.30113585000004,28.38910930400004,0 77.30120254000008,28.38932606300006,0 77.29778390700005,28.38978237400005,0 77.29382358300006,28.39026922800008,0 77.29333544400004,28.39053604200007,0 77.29116589600005,28.39285711700006,0 77.29087446200003,28.39312766800003,0 77.28964406600005,28.39346931900008,0 77.28758138500007,28.39387379800007,0 77.28667616200005,28.39425251800003,0 77.28629797800005,28.39465355900006,0 77.28497949500007,28.39510361400005,0 77.28379884600008,28.39636968700006,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20021">
+				<name>15</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>15</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.059147</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>15</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.28793604700007,28.40434173300002,0 77.28794338200004,28.40528129000006,0 77.28630745300006,28.40452211500008,0 77.28298220000005,28.40319548500003,0 77.28298202800005,28.40318734300007,0 77.28280556300007,28.40272134800006,0 77.28279208900005,28.40225538400006,0 77.28267915300006,28.40217194800005,0 77.28541948700007,28.39670805300005,0 77.28499677700006,28.39656149100006,0 77.28379884600008,28.39636968700006,0 77.28497949500007,28.39510361400005,0 77.28629797800005,28.39465355900006,0 77.28667616200005,28.39425251800003,0 77.28758138500007,28.39387379800007,0 77.28964406600005,28.39346931900008,0 77.29087446200003,28.39312766800003,0 77.29116589600005,28.39285711700006,0 77.29333544400004,28.39053604200007,0 77.29382358300006,28.39026922800008,0 77.29778390700005,28.38978237400005,0 77.30120254000008,28.38932606300006,0 77.30143614800005,28.39008534100003,0 77.30164146600004,28.39223228700007,0 77.30164130500003,28.39223346300003,0 77.30140112100008,28.39399188100003,0 77.30084074100006,28.39556376400003,0 77.30009372100005,28.39666640700006,0 77.29893123200003,28.39827066100003,0 77.29468598800008,28.40154103700007,0 77.29351575000004,28.40211522400006,0 77.29353596000004,28.40217183100003,0 77.29294337200008,28.40246011300008,0 77.29331673400003,28.40325796300004,0 77.29324546100008,28.40430605900008,0 77.28793604700007,28.40434173300002,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20022">
+				<name>32</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>32</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.116189</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>32</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.32023103400007,28.40386097800007,0 77.31987242600007,28.40891709100004,0 77.31839433100004,28.40881095700008,0 77.31882962900005,28.40179376700007,0 77.31183677900003,28.40165885500005,0 77.31249047300008,28.39278567800005,0 77.30846935100004,28.39250775800008,0 77.30848301600008,28.39230409100003,0 77.30913184400004,28.38446703700004,0 77.30975020300008,28.38444172200008,0 77.31056990700006,28.38511222700004,0 77.31315838500007,28.38533985500004,0 77.31353292600005,28.38117820500003,0 77.32248895200007,28.38172601000008,0 77.33881708000007,28.38279882500007,0 77.33828633700006,28.38943809800004,0 77.33675773200008,28.38959213600003,0 77.33621261700006,28.39543800700005,0 77.33596708100004,28.39754120300006,0 77.33433470400007,28.40284565600007,0 77.32678584500007,28.40237676200007,0 77.32649921200004,28.40590931200006,0 77.32386681700007,28.40576098500003,0 77.32391729200003,28.40410928600005,0 77.32023103400007,28.40386097800007,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20023">
+				<name>14</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>14</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.063667</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>14</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.29951304900004,28.41343572100005,0 77.29897202400008,28.41350361100007,0 77.29836477200007,28.41349380100007,0 77.29790106300004,28.41344517000005,0 77.29710615400006,28.41327995100005,0 77.29611256100003,28.41291076700003,0 77.29512053700006,28.41229910100003,0 77.29467131100006,28.41192777000003,0 77.29415404900004,28.41141272100003,0 77.29381382300005,28.41077795300004,0 77.29348719200004,28.41023899400005,0 77.29332402800003,28.40937673000008,0 77.29327217600007,28.40939994700005,0 77.29323818300009,28.40879927000003,0 77.29322625200007,28.40808543300005,0 77.29371419600005,28.40585806900003,0 77.29396646400005,28.40459656400003,0 77.29396665200005,28.40382737500005,0 77.29367078400009,28.40254947400007,0 77.29353596000004,28.40217183100003,0 77.29351575000004,28.40211522400006,0 77.29468598800008,28.40154103700007,0 77.29893123200003,28.39827066100003,0 77.30009372100005,28.39666640700006,0 77.30084074100006,28.39556376400003,0 77.30140112100008,28.39399188100003,0 77.30164130500003,28.39223346300003,0 77.30579918500007,28.39241261200004,0 77.30777384000004,28.39240135200004,0 77.30777037800004,28.39245944900006,0 77.30846935100004,28.39250775800008,0 77.30741220300007,28.40826433700005,0 77.30610427600004,28.40822803200007,0 77.30578579400003,28.40794603900002,0 77.30486223100007,28.40720119900004,0 77.30467525000006,28.40753002500003,0 77.30421318200007,28.40967452800004,0 77.30397231500007,28.41025458000007,0 77.30339637800006,28.41135020800004,0 77.30286239700007,28.41191179900005,0 77.30209809400003,28.41254702100002,0 77.30135475800006,28.41294284900005,0 77.30076847100008,28.41318216900004,0 77.29951304900004,28.41343572100005,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20024">
+				<name>17</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.043091</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>17</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.28907076800005,28.41281478900004,0 77.28625872200007,28.41378247900008,0 77.28634062800006,28.41064983400003,0 77.28425477400003,28.41057373800004,0 77.28427111700006,28.40890020500007,0 77.28347463400007,28.40709574000005,0 77.28304976100003,28.40640136900004,0 77.28298220000005,28.40319548500003,0 77.28630745300006,28.40452211500008,0 77.28794338200004,28.40528129000006,0 77.28793604700007,28.40434173300002,0 77.29324546100008,28.40430605900008,0 77.29331673400003,28.40325796300004,0 77.29294337200008,28.40246011300008,0 77.29353596000004,28.40217183100003,0 77.29367078400009,28.40254947400007,0 77.29396665200005,28.40382737500005,0 77.29396646400005,28.40459656400003,0 77.29371419600005,28.40585806900003,0 77.29322625200007,28.40808543300005,0 77.29323818300009,28.40879927000003,0 77.29327217600007,28.40939994700005,0 77.29229441000007,28.40983774200004,0 77.29079472600006,28.41207805000005,0 77.28907076800005,28.41281478900004,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20025">
+				<name>16</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>16</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.219793</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>16</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.28625872200007,28.41378247900008,0 77.28321740900003,28.41482906600004,0 77.28315939400005,28.41470143000004,0 77.28299455500007,28.41182160700004,0 77.28126732400006,28.41144003800002,0 77.28068482400005,28.41140577200002,0 77.28030943300007,28.41139431300007,0 77.28010998800005,28.41135090100005,0 77.27968911900007,28.41212550500006,0 77.27904477700008,28.41285381200004,0 77.27732519700004,28.41397287000007,0 77.27647891600003,28.41281243700007,0 77.27661695100005,28.41206783700005,0 77.27645949900006,28.41187731700006,0 77.27600671700003,28.41170404800005,0 77.27561304700004,28.41137493900004,0 77.27527831800006,28.41146144800007,0 77.27392496900006,28.41066799100003,0 77.27321868600006,28.41039168800006,0 77.27402050200004,28.40812793800006,0 77.27344206700008,28.40790599500008,0 77.27123416000006,28.40607679600004,0 77.26976328300003,28.40536541700004,0 77.26937547500006,28.40485339500003,0 77.26824903700003,28.40522195100004,0 77.26725632000006,28.40510523400008,0 77.26519972800008,28.40398554300003,0 77.25865235700007,28.40272345300008,0 77.25617094100005,28.40290838600004,0 77.25385832100005,28.40260979400006,0 77.25304038800005,28.40260947100006,0 77.25199642100006,28.40337814700007,0 77.25013260900005,28.40603696400007,0 77.24949938300006,28.40620619400005,0 77.24604274000006,28.40656486300003,0 77.24394080900004,28.40726925200005,0 77.24230907700007,28.40770629100007,0 77.24090633700007,28.40831498900008,0 77.23669240300006,28.41121923000003,0 77.23474831400006,28.41215377000003,0 77.22915714000004,28.40583138600005,0 77.22751578800006,28.40508768300003,0 77.22421750300003,28.39686143400007,0 77.22038864600006,28.39370260600003,0 77.21564624900003,28.39236209300003,0 77.21518085400004,28.39003821300003,0 77.21818365300004,28.38982597400008,0 77.21851273700008,28.38447200100006,0 77.22459829200005,28.38483273800006,0 77.22467805400004,28.38661749000005,0 77.24254042200005,28.38646666900007,0 77.24757455200006,28.38660374000006,0 77.25124646300003,28.38654265500003,0 77.25226982100008,28.38646122300003,0 77.25217792800004,28.38558425800005,0 77.24845440800004,28.38330990000003,0 77.24950675300005,28.38152203700003,0 77.24978581300007,28.38098053200002,0 77.24984353600007,28.38086852200007,0 77.25121731600007,28.38083208600006,0 77.25340008100005,28.38127035000008,0 77.25682488100006,28.38219081400007,0 77.25854377600007,28.38298263100007,0 77.26078166100007,28.38340786900005,0 77.26196283600007,28.38362083700002,0 77.26363750500008,28.38372101200002,0 77.26486404000008,28.38394822300006,0 77.26608182700005,28.38399443100008,0 77.26696222900006,28.38558039500003,0 77.26798127500007,28.38625325500004,0 77.26900071800003,28.38585389300005,0 77.26917801800005,28.38576621600004,0 77.26946717200008,28.38552106100008,0 77.26969773800005,28.38553672700004,0 77.27085786200007,28.38580863700003,0 77.27229908700008,28.38637357700003,0 77.27346724000006,28.38674938800006,0 77.27464704800008,28.38695846500009,0 77.27286835300004,28.38893855000003,0 77.27165157400003,28.39027581300007,0 77.27284869000005,28.39128670000002,0 77.27272814400004,28.39213233200007,0 77.27319158900008,28.39292682200005,0 77.27387467800008,28.39376430800007,0 77.27428950000007,28.39400057500006,0 77.27526565200003,28.39425844400006,0 77.27587990700005,28.39369576000007,0 77.27674621900007,28.39413722900002,0 77.27644209500005,28.39452495100005,0 77.27706521400006,28.39492624800005,0 77.27750617800007,28.39441820600007,0 77.27857349100003,28.39473102100004,0 77.27882845100004,28.39444090900003,0 77.27941308600003,28.39482352000005,0 77.27917312200003,28.39511363500003,0 77.28052231900006,28.39585249800007,0 77.28152670500003,28.39649895800005,0 77.28176650100005,28.39690786800003,0 77.28289090800007,28.39734331800003,0 77.28379884600008,28.39636968700006,0 77.28499677700006,28.39656149100006,0 77.28541948700007,28.39670805300005,0 77.28267915300006,28.40217194800005,0 77.28279208900005,28.40225538400006,0 77.28280556300007,28.40272134800006,0 77.28298202800005,28.40318734300007,0 77.28298220000005,28.40319548500003,0 77.28304976100003,28.40640136900004,0 77.28347463400007,28.40709574000005,0 77.28427111700006,28.40890020500007,0 77.28425477400003,28.41057373800004,0 77.28634062800006,28.41064983400003,0 77.28625872200007,28.41378247900008,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20026">
+				<name>31</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>31</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.113422</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>31</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.33066489100008,28.41623368700004,0 77.33040310000007,28.41673439700003,0 77.32504026500004,28.41641905800003,0 77.31618675100003,28.41589846400007,0 77.31421842700007,28.41625655800004,0 77.31058880200004,28.41605736100007,0 77.31058299400007,28.41612754300007,0 77.30833090900006,28.41526941700005,0 77.30716359300004,28.41509221400003,0 77.30746504700005,28.40826580400005,0 77.30741220300007,28.40826433700005,0 77.30846935100004,28.39250775800008,0 77.31249047300008,28.39278567800005,0 77.31183677900003,28.40165885500005,0 77.31882962900005,28.40179376700007,0 77.31839433100004,28.40881095700008,0 77.31987242600007,28.40891709100004,0 77.32023103400007,28.40386097800007,0 77.32391729200003,28.40410928600005,0 77.32386681700007,28.40576098500003,0 77.32649921200004,28.40590931200006,0 77.32678584500007,28.40237676200007,0 77.33433470400007,28.40284565600007,0 77.33447101700006,28.40285412300005,0 77.33066489100008,28.41623368700004,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20027">
+				<name>30</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>30</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.056037</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>30</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.31925958500005,28.42627475900002,0 77.31918864500005,28.42819924400004,0 77.30982647900004,28.42756197600005,0 77.30963719600004,28.42755687700003,0 77.31058299400007,28.41612754300007,0 77.31058880200004,28.41605736100007,0 77.31421842700007,28.41625655800004,0 77.31618675100003,28.41589846400007,0 77.32504026500004,28.41641905800003,0 77.32486561800005,28.41716844100006,0 77.32461773800003,28.41807653100005,0 77.32452642900006,28.41820372500007,0 77.32404700800004,28.41860541100004,0 77.32445049300003,28.41924126800006,0 77.32481584800007,28.41940187100005,0 77.32505181400006,28.41954910400006,0 77.32539438700007,28.41997077000008,0 77.32567412300006,28.42095897900003,0 77.32572173200003,28.42212616600006,0 77.32544721200003,28.42215675600005,0 77.32430618700005,28.42253323700004,0 77.32378757800007,28.42270562800007,0 77.32347906700005,28.42275436600005,0 77.32249814600004,28.42281709600007,0 77.32169127500004,28.42299807400008,0 77.32093976500005,28.42313730100005,0 77.32085276100008,28.42326254100004,0 77.32052050900006,28.42332519200005,0 77.32040898200006,28.42264879400005,0 77.32011217900003,28.42244002100006,0 77.31979164200004,28.42228345000007,0 77.31883008700004,28.42226265800008,0 77.31902008400004,28.42278464700007,0 77.31917451800007,28.42373468800003,0 77.31914726200006,28.42531262900008,0 77.31925958500005,28.42627475900002,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20028">
+				<name>29</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.0479</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>29</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.33016043500004,28.42111842100007,0 77.32799376000008,28.42892742000004,0 77.32696935900003,28.42872886500004,0 77.31918864500005,28.42819924400004,0 77.31925958500005,28.42627475900002,0 77.31914726200006,28.42531262900008,0 77.31917451800007,28.42373468800003,0 77.31902008400004,28.42278464700007,0 77.31883008700004,28.42226265800008,0 77.31979164200004,28.42228345000007,0 77.32011217900003,28.42244002100006,0 77.32040898200006,28.42264879400005,0 77.32052050900006,28.42332519200005,0 77.32085276100008,28.42326254100004,0 77.32093976500005,28.42313730100005,0 77.32169127500004,28.42299807400008,0 77.32249814600004,28.42281709600007,0 77.32347906700005,28.42275436600005,0 77.32378757800007,28.42270562800007,0 77.32430618700005,28.42253323700004,0 77.32544721200003,28.42215675600005,0 77.32572173200003,28.42212616600006,0 77.32567412300006,28.42095897900003,0 77.32539438700007,28.41997077000008,0 77.32505181400006,28.41954910400006,0 77.32481584800007,28.41940187100005,0 77.32445049300003,28.41924126800006,0 77.32404700800004,28.41860541100004,0 77.32452642900006,28.41820372500007,0 77.32461773800003,28.41807653100005,0 77.32486561800005,28.41716844100006,0 77.32504026500004,28.41641905800003,0 77.33040310000007,28.41673439700003,0 77.33046129900004,28.41673781900005,0 77.32941611300004,28.42095014600005,0 77.33016043500004,28.42111842100007,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20029">
+				<name>19</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>19</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.098833</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>19</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.30556523200005,28.43429661800008,0 77.29408220900007,28.43442668400007,0 77.29147152800005,28.42651497100007,0 77.29137309000004,28.42659180100003,0 77.29055008800003,28.42504927400006,0 77.28818888600006,28.42156004800006,0 77.28607175400003,28.41788099000007,0 77.28316143200004,28.41484832900005,0 77.28321740900003,28.41482906600004,0 77.28625872200007,28.41378247900008,0 77.28907076800005,28.41281478900004,0 77.29079472600006,28.41207805000005,0 77.29229441000007,28.40983774200004,0 77.29327217600007,28.40939994700005,0 77.29332402800003,28.40937673000008,0 77.29348719200004,28.41023899400005,0 77.29381382300005,28.41077795300004,0 77.29415404900004,28.41141272100003,0 77.29467131100006,28.41192777000003,0 77.29512053700006,28.41229910100003,0 77.29611256100003,28.41291076700003,0 77.29710615400006,28.41327995100005,0 77.29790106300004,28.41344517000005,0 77.29836477200007,28.41349380100007,0 77.29897202400008,28.41350361100007,0 77.29951304900004,28.41343572100005,0 77.30076847100008,28.41318216900004,0 77.30135475800006,28.41294284900005,0 77.30209809400003,28.41254702100002,0 77.30286239700007,28.41191179900005,0 77.30339637800006,28.41135020800004,0 77.30397231500007,28.41025458000007,0 77.30421318200007,28.40967452800004,0 77.30467525000006,28.40753002500003,0 77.30486223100007,28.40720119900004,0 77.30578579400003,28.40794603900002,0 77.30610427600004,28.40822803200007,0 77.30741220300007,28.40826433700005,0 77.30746504700005,28.40826580400005,0 77.30716359300004,28.41509221400003,0 77.30833090900006,28.41526941700005,0 77.31058299400007,28.41612754300007,0 77.30963719600004,28.42755687700003,0 77.30597888000006,28.42745831800005,0 77.30556523200005,28.43429661800008,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20030">
+				<name>28</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>28</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.176255</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>28</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.35194044300005,28.44577958500003,0 77.35191081000005,28.44612005400006,0 77.35101718600004,28.44580606900007,0 77.35045111900007,28.44533485000005,0 77.35039151100006,28.44523011400003,0 77.35000421200004,28.44491597600006,0 77.34884272000005,28.44496872300005,0 77.34765137000005,28.44483815900003,0 77.34607232200006,28.44318880900005,0 77.34373895300007,28.44389715400007,0 77.34304169700005,28.44272752300003,0 77.34250314300004,28.44253270400003,0 77.34060253800004,28.44244966500003,0 77.33857505700007,28.44194884800004,0 77.33700273200003,28.44090906600007,0 77.33575493600006,28.44017099800004,0 77.33577890900006,28.44010178600007,0 77.33573710900004,28.43998299900005,0 77.33563545700008,28.43933970700006,0 77.33542142600004,28.43902307900004,0 77.33502742800005,28.43893416600002,0 77.33456593300008,28.43891456200004,0 77.33383405800004,28.43843978400003,0 77.33335000200003,28.43833110600008,0 77.33265975500007,28.43847303900003,0 77.33170029600007,28.43905505100003,0 77.33027402100004,28.43985392200005,0 77.32599174500007,28.43882552000002,0 77.32598845900003,28.43883695100004,0 77.32597257900005,28.43875598400007,0 77.32891951000005,28.42910685400005,0 77.32799376000008,28.42892742000004,0 77.33016043500004,28.42111842100007,0 77.32941611300004,28.42095014600005,0 77.33046129900004,28.41673781900005,0 77.33040310000007,28.41673439700003,0 77.33066489100008,28.41623368700004,0 77.33447101700006,28.40285412300005,0 77.33433470400007,28.40284565600007,0 77.33596708100004,28.39754120300006,0 77.33621261700006,28.39543800700005,0 77.33675773200008,28.38959213600003,0 77.33828633700006,28.38943809800004,0 77.33827749100004,28.38954875700006,0 77.33983436500006,28.38983035700005,0 77.34385275100004,28.39000108900007,0 77.34734367100003,28.39109654600003,0 77.34891601100009,28.39219801700006,0 77.35181546400008,28.39500602900006,0 77.35539324000007,28.39994985200008,0 77.35371734500006,28.40102713600004,0 77.35192512500004,28.40288785600006,0 77.35192553200005,28.40386143200004,0 77.35056137100008,28.40399774000008,0 77.34958373600006,28.40531129900007,0 77.34866295500007,28.40608798500006,0 77.35035356900005,28.40880895800007,0 77.35244192700003,28.41092575400006,0 77.35355532100004,28.41323548200006,0 77.35503970500008,28.41576256200005,0 77.35547283200003,28.41682240400007,0 77.35561321900008,28.41938913600006,0 77.35721461100007,28.42326379200006,0 77.35881900500004,28.42671986100004,0 77.35931564300006,28.42779363000005,0 77.35775202600007,28.42984150400002,0 77.35932176400007,28.43118456700006,0 77.36078941500006,28.43606563000003,0 77.36175135500008,28.43855131900006,0 77.36213683400007,28.44434051500008,0 77.36259295800005,28.44551957300007,0 77.36137781900004,28.44451880400004,0 77.35953025100008,28.44369629300007,0 77.35753094200004,28.44291833800003,0 77.35596192900005,28.44240719900006,0 77.35591131300004,28.44238496800006,0 77.35522795300005,28.44198474000007,0 77.35224188800004,28.44138507400004,0 77.35143211500008,28.44129635200005,0 77.35167174900005,28.44428692500003,0 77.35194044300005,28.44577958500003,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20031">
+				<name>27</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>27</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.077045</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>27</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.32170708300004,28.44948169500003,0 77.31948294400007,28.45033393000006,0 77.31922556000006,28.44998807500008,0 77.31902880000007,28.44989500100007,0 77.31927060600003,28.44904340000005,0 77.31691239900005,28.44877100800005,0 77.31697202000004,28.44848742300007,0 77.31188763500006,28.44852770000006,0 77.31181891800003,28.44734940800004,0 77.30833286600006,28.44572468700005,0 77.30813546200005,28.44570431000005,0 77.30963719600004,28.42755687700003,0 77.30982647900004,28.42756197600005,0 77.31918864500005,28.42819924400004,0 77.32696935900003,28.42872886500004,0 77.32799376000008,28.42892742000004,0 77.32891951000005,28.42910685400005,0 77.32597257900005,28.43875598400007,0 77.32598845900003,28.43883695100004,0 77.32293278800006,28.44946799500008,0 77.32188857700004,28.44925545300004,0 77.32170708300004,28.44948169500003,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20032">
+				<name>26</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>26</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.129171</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>26</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.31724548100004,28.47127713900005,0 77.31048991500006,28.47388733600008,0 77.31067742500005,28.47268079100007,0 77.31203198400004,28.46834760700006,0 77.31259712500008,28.46581604100004,0 77.31305433200004,28.46330850700008,0 77.31337415500008,28.46152014900002,0 77.31380904400004,28.46052864500007,0 77.31370034800005,28.46036139400007,0 77.31247735400007,28.46103031200005,0 77.31241792500003,28.46221681100008,0 77.31215073800007,28.46234728600007,0 77.31140859200008,28.46216455300004,0 77.30680327900006,28.46088224700003,0 77.30808225500005,28.44569881800004,0 77.30813546200005,28.44570431000005,0 77.30833286600006,28.44572468700005,0 77.31181891800003,28.44734940800004,0 77.31188763500006,28.44852770000006,0 77.31697202000004,28.44848742300007,0 77.31691239900005,28.44877100800005,0 77.31927060600003,28.44904340000005,0 77.31902880000007,28.44989500100007,0 77.31922556000006,28.44998807500008,0 77.31948294400007,28.45033393000006,0 77.32170708300004,28.44948169500003,0 77.32188857700004,28.44925545300004,0 77.32293278800006,28.44946799500008,0 77.32598845900003,28.43883695100004,0 77.32599174500007,28.43882552000002,0 77.33027402100004,28.43985392200005,0 77.33170029600007,28.43905505100003,0 77.33265975500007,28.43847303900003,0 77.33335000200003,28.43833110600008,0 77.33383405800004,28.43843978400003,0 77.33456593300008,28.43891456200004,0 77.33502742800005,28.43893416600002,0 77.33542142600004,28.43902307900004,0 77.33563545700008,28.43933970700006,0 77.33573710900004,28.43998299900005,0 77.33577890900006,28.44010178600007,0 77.33575493600006,28.44017099800004,0 77.33554390900008,28.44078025700003,0 77.33543941700003,28.44099301100005,0 77.33550066900006,28.44099932100005,0 77.33551147200006,28.44119376200007,0 77.33549819900009,28.44124040500003,0 77.33519298600004,28.44202166500003,0 77.33500450100007,28.44241547900003,0 77.33445735400005,28.44252740600007,0 77.33459354000007,28.44451018000007,0 77.33368227100004,28.44519095100003,0 77.33162491900004,28.44566214400004,0 77.33111137700007,28.44575610400005,0 77.32969917500003,28.44592511900004,0 77.32984863100006,28.44701629700006,0 77.32948564600008,28.44759812100006,0 77.32948550100008,28.44805862400006,0 77.32909244600006,28.44881836300004,0 77.32814927200008,28.45015358300003,0 77.32757273900006,28.45146584700007,0 77.32862951500005,28.45222320000005,0 77.32836785900008,28.45238414600004,0 77.32824575300003,28.45245695400007,0 77.32805354200008,28.45259417300002,0 77.32778800400007,28.45275598400008,0 77.32672845600007,28.45378144400007,0 77.32624454400008,28.45468304500002,0 77.32620264800005,28.45531351200003,0 77.32627818200007,28.45548499800003,0 77.32261253600007,28.45664719600006,0 77.32107060000004,28.45646311500008,0 77.31892300900006,28.46355254900004,0 77.31819533500004,28.47133679400002,0 77.31724548100004,28.47127713900005,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20033">
+				<name>23</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>23</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.069286</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>23</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.32103316600006,28.48686895000003,0 77.32091862400006,28.48689415600006,0 77.32093868600003,28.48685506000004,0 77.31849884700006,28.48684360700003,0 77.31693575700007,28.48649224700006,0 77.31693734400005,28.48647657700008,0 77.31751743100006,28.48074915600006,0 77.32082835400007,28.47831167500004,0 77.32243051700004,28.47700624700008,0 77.32382119500005,28.47591866300007,0 77.32117392900005,28.47261795200006,0 77.32139731000007,28.47255256900007,0 77.32251409200006,28.47255288200006,0 77.32252594500005,28.47251289700006,0 77.32252597900003,28.47241971000005,0 77.32315210100006,28.47241405600005,0 77.32646815200008,28.47240819800004,0 77.32720423100005,28.47150094500006,0 77.32723882500005,28.47151745600007,0 77.32891461700007,28.47231730200008,0 77.32891456200008,28.47250439100003,0 77.33023610800007,28.47340074700003,0 77.33170605700008,28.47459716600002,0 77.33298302000003,28.47587487900006,0 77.33338882900006,28.47621193200007,0 77.33383521500008,28.47627909800008,0 77.33394617800008,28.47648357900005,0 77.33395666700005,28.47681815300007,0 77.33407295500007,28.47687393700005,0 77.33414425300003,28.47715974100004,0 77.33413109700007,28.48195251700003,0 77.33800076600005,28.48201979300006,0 77.33810661500007,28.48215145700004,0 77.33941119700006,28.48219736600004,0 77.33492621900007,28.48630526200003,0 77.33368525300006,28.48543543100004,0 77.33287220900007,28.48621226800003,0 77.32818420600006,28.48621405000006,0 77.32809663700004,28.48678612300006,0 77.32103316600006,28.48686895000003,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20034">
+				<name>22</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.142487</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>22</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.30619566900003,28.48747987200005,0 77.30435680800008,28.48764233400004,0 77.30561309300003,28.47455167300007,0 77.30667655300005,28.46238668000007,0 77.30680327900006,28.46088224700003,0 77.31140859200008,28.46216455300004,0 77.31215073800007,28.46234728600007,0 77.31241792500003,28.46221681100008,0 77.31247735400007,28.46103031200005,0 77.31370034800005,28.46036139400007,0 77.31380904400004,28.46052864500007,0 77.31337415500008,28.46152014900002,0 77.31305433200004,28.46330850700008,0 77.31259712500008,28.46581604100004,0 77.31203198400004,28.46834760700006,0 77.31067742500005,28.47268079100007,0 77.31048991500006,28.47388733600008,0 77.31724548100004,28.47127713900005,0 77.31819533500004,28.47133679400002,0 77.31892300900006,28.46355254900004,0 77.32107060000004,28.45646311500008,0 77.32261253600007,28.45664719600006,0 77.32627818200007,28.45548499800003,0 77.32628217500007,28.45549406300006,0 77.32627802500008,28.45571926300005,0 77.32610712000007,28.45646941700005,0 77.32557784300008,28.45717446700007,0 77.32483884800007,28.45790674300002,0 77.32479906000003,28.45813714500002,0 77.32482037000005,28.45835363400005,0 77.32464585200006,28.45836674000003,0 77.32463081500004,28.45859906600003,0 77.32452933500008,28.45870171900003,0 77.32424597700003,28.45919957200005,0 77.32394508800007,28.45921505300004,0 77.32341373100007,28.45924701300004,0 77.32337839800005,28.46028359900004,0 77.32410851900005,28.46021796500003,0 77.32431289600004,28.46212419000005,0 77.32431288400005,28.46216091900004,0 77.32421536700008,28.46225883800003,0 77.32417948100004,28.46301396100006,0 77.32370988600007,28.46327281800006,0 77.32338762000006,28.46343864100004,0 77.32308374600007,28.46366111900005,0 77.32295481500006,28.46379866800004,0 77.32291797500005,28.46384317000008,0 77.32290859100004,28.46434494400006,0 77.32283707400006,28.46434013100003,0 77.32188088200007,28.46438931800003,0 77.32191400600004,28.46523993800003,0 77.32218084000004,28.46531821200006,0 77.32330937400008,28.46635483200004,0 77.32344179500007,28.46706359600006,0 77.32380596600007,28.46708252600007,0 77.32385941400008,28.46739326900007,0 77.32461960300003,28.46828799300005,0 77.32501596200007,28.46815627100006,0 77.32549333700007,28.46887324100004,0 77.32588945300006,28.46878986200005,0 77.32590274400008,28.46929848700006,0 77.32774568000008,28.47095495400004,0 77.32723882500005,28.47151745600007,0 77.32720423100005,28.47150094500006,0 77.32646815200008,28.47240819800004,0 77.32315210100006,28.47241405600005,0 77.32252597900003,28.47241971000005,0 77.32252594500005,28.47251289700006,0 77.32251409200006,28.47255288200006,0 77.32139731000007,28.47255256900007,0 77.32117392900005,28.47261795200006,0 77.32382119500005,28.47591866300007,0 77.32243051700004,28.47700624700008,0 77.32082835400007,28.47831167500004,0 77.31751743100006,28.48074915600006,0 77.31693734400005,28.48647657700008,0 77.31634090300008,28.48510223800002,0 77.31602231200003,28.48449318600007,0 77.31458943300004,28.48291103200006,0 77.31202899700008,28.48501658700008,0 77.31004174700007,28.48670018200005,0 77.30913445100003,28.48729266500004,0 77.30834629000003,28.48749208300006,0 77.30731773200006,28.48751534100006,0 77.30619566900003,28.48747987200005,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20035">
+				<name>20</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.188311</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>20</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.30023497400003,28.49005112200007,0 77.30022954400005,28.49008961300007,0 77.30016808700003,28.49000856000004,0 77.30036692500005,28.48779946200006,0 77.30083862800007,28.48321891900002,0 77.30167646200005,28.47532900700003,0 77.30137892500005,28.47527084200004,0 77.30056902000007,28.47483481600006,0 77.30002352900004,28.47483473500006,0 77.29689165000008,28.47490660700004,0 77.29666018300003,28.47396982500004,0 77.29628983100008,28.47259862000004,0 77.29602738400007,28.47219131000003,0 77.29534798000003,28.47175677400003,0 77.29482308600007,28.47102360800005,0 77.29402035600003,28.46976094400003,0 77.29364452500005,28.46891014800008,0 77.29306236800005,28.46761390400008,0 77.29191961800007,28.46621592900004,0 77.29081053700008,28.46409645100005,0 77.28971464200004,28.46226694700005,0 77.28870079700005,28.46110918700003,0 77.28870132300006,28.46109747500003,0 77.28879127500005,28.45909364400006,0 77.29244053300005,28.45892198600006,0 77.29256745100008,28.44865181500006,0 77.28141985400004,28.44852250100007,0 77.28062737100004,28.44680874100004,0 77.28094806800004,28.44634766400003,0 77.28123982100004,28.44534855900002,0 77.28130364600008,28.44358126500003,0 77.28336620300007,28.44135051100005,0 77.28499273900007,28.43838761100005,0 77.28509762200008,28.43430543400007,0 77.28505516000007,28.43336046100006,0 77.28903461600004,28.42841695300007,0 77.29137309000004,28.42659180100003,0 77.29147152800005,28.42651497100007,0 77.29408220900007,28.43442668400007,0 77.30556523200005,28.43429661800008,0 77.30597888000006,28.42745831800005,0 77.30963719600004,28.42755687700003,0 77.30813546200005,28.44570431000005,0 77.30808225500005,28.44569881800004,0 77.30680327900006,28.46088224700003,0 77.30667655300005,28.46238668000007,0 77.30561309300003,28.47455167300007,0 77.30435680800008,28.48764233400004,0 77.30416407200005,28.48765936200005,0 77.30418252100003,28.48715314000003,0 77.30065218600004,28.48786707300008,0 77.30174403600006,28.49008740200003,0 77.30023497400003,28.49005112200007,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20036">
+				<name>21</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>21</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.100995</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>21</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.29338416600007,28.50115549400005,0 77.29079241200003,28.50155453200006,0 77.29049265800006,28.50090846400008,0 77.28900282900008,28.49812327600007,0 77.28805844100003,28.49606180100005,0 77.28657691300003,28.49317471700005,0 77.28667115200005,28.48955664900007,0 77.28849572900003,28.48852904600005,0 77.28911070000004,28.48824433600004,0 77.28947279600004,28.48764339700006,0 77.28926448800007,28.48609202300003,0 77.28905196200003,28.48422876700005,0 77.28837664900004,28.48075956900004,0 77.28686095200004,28.47804370200004,0 77.28679837700008,28.47549186400005,0 77.28705865700005,28.47439964100005,0 77.28717586900007,28.46993823300005,0 77.28662005500007,28.46878281700003,0 77.28627874900008,28.46614310300004,0 77.28598198100008,28.46409664500004,0 77.28590540900007,28.46354052800007,0 77.28530807600004,28.46212512400007,0 77.28495718900007,28.46126661800003,0 77.28595375400005,28.46094347500008,0 77.28671583100004,28.46073920000004,0 77.28768452700007,28.46073933600007,0 77.28852402300004,28.46101196800004,0 77.28870132300006,28.46109747500003,0 77.28870079700005,28.46110918700003,0 77.28971464200004,28.46226694700005,0 77.29081053700008,28.46409645100005,0 77.29191961800007,28.46621592900004,0 77.29306236800005,28.46761390400008,0 77.29364452500005,28.46891014800008,0 77.29402035600003,28.46976094400003,0 77.29482308600007,28.47102360800005,0 77.29534798000003,28.47175677400003,0 77.29602738400007,28.47219131000003,0 77.29628983100008,28.47259862000004,0 77.29666018300003,28.47396982500004,0 77.29689165000008,28.47490660700004,0 77.30002352900004,28.47483473500006,0 77.30056902000007,28.47483481600006,0 77.30137892500005,28.47527084200004,0 77.30167646200005,28.47532900700003,0 77.30083862800007,28.48321891900002,0 77.30036692500005,28.48779946200006,0 77.30016808700003,28.49000856000004,0 77.30022954400005,28.49008961300007,0 77.29963402900006,28.49431107400005,0 77.29903673300004,28.49683083600007,0 77.29807633800004,28.49887813100003,0 77.29716744200005,28.49898581200006,0 77.29589065200008,28.49892175500003,0 77.29455399200003,28.49986733000003,0 77.29338416600007,28.50115549400005,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20037">
+				<name>18</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>18</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0.318129</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>18</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.28372537800004,28.50239833300003,0 77.28214940400005,28.50254857200002,0 77.27817912500007,28.49989318600007,0 77.27423656000008,28.49709447600003,0 77.27175743000004,28.49527776100007,0 77.26864964700008,28.49391019200004,0 77.26781180300003,28.49123997300006,0 77.26437096900008,28.48904117200004,0 77.25880122700005,28.48639252700008,0 77.25105486400008,28.48312317200004,0 77.24080907100006,28.48120232400004,0 77.23910163100004,28.47830383900003,0 77.23641542700005,28.47464311200002,0 77.23334651100004,28.46929315300002,0 77.23219721800007,28.46552053600004,0 77.24072030600007,28.45900517100006,0 77.24445419900007,28.44913782500004,0 77.25148822000006,28.44296229600008,0 77.24409093400004,28.43059666600004,0 77.23761015400004,28.41538988000008,0 77.23474831400006,28.41215377000003,0 77.23669240300006,28.41121923000003,0 77.24090633700007,28.40831498900008,0 77.24230907700007,28.40770629100007,0 77.24394080900004,28.40726925200005,0 77.24604274000006,28.40656486300003,0 77.24949938300006,28.40620619400005,0 77.25013260900005,28.40603696400007,0 77.25199642100006,28.40337814700007,0 77.25304038800005,28.40260947100006,0 77.25385832100005,28.40260979400006,0 77.25617094100005,28.40290838600004,0 77.25865235700007,28.40272345300008,0 77.26519972800008,28.40398554300003,0 77.26725632000006,28.40510523400008,0 77.26824903700003,28.40522195100004,0 77.26937547500006,28.40485339500003,0 77.26976328300003,28.40536541700004,0 77.27123416000006,28.40607679600004,0 77.27344206700008,28.40790599500008,0 77.27402050200004,28.40812793800006,0 77.27321868600006,28.41039168800006,0 77.27392496900006,28.41066799100003,0 77.27527831800006,28.41146144800007,0 77.27561304700004,28.41137493900004,0 77.27600671700003,28.41170404800005,0 77.27645949900006,28.41187731700006,0 77.27661695100005,28.41206783700005,0 77.27647891600003,28.41281243700007,0 77.27732519700004,28.41397287000007,0 77.27904477700008,28.41285381200004,0 77.27968911900007,28.41212550500006,0 77.28010998800005,28.41135090100005,0 77.28030943300007,28.41139431300007,0 77.28068482400005,28.41140577200002,0 77.28126732400006,28.41144003800002,0 77.28299455500007,28.41182160700004,0 77.28315939400005,28.41470143000004,0 77.28321740900003,28.41482906600004,0 77.28316143200004,28.41484832900005,0 77.28607175400003,28.41788099000007,0 77.28818888600006,28.42156004800006,0 77.29055008800003,28.42504927400006,0 77.29137309000004,28.42659180100003,0 77.28903461600004,28.42841695300007,0 77.28505516000007,28.43336046100006,0 77.28509762200008,28.43430543400007,0 77.28499273900007,28.43838761100005,0 77.28336620300007,28.44135051100005,0 77.28130364600008,28.44358126500003,0 77.28123982100004,28.44534855900002,0 77.28094806800004,28.44634766400003,0 77.28062737100004,28.44680874100004,0 77.28141985400004,28.44852250100007,0 77.29256745100008,28.44865181500006,0 77.29244053300005,28.45892198600006,0 77.28879127500005,28.45909364400006,0 77.28870132300006,28.46109747500003,0 77.28852402300004,28.46101196800004,0 77.28768452700007,28.46073933600007,0 77.28671583100004,28.46073920000004,0 77.28595375400005,28.46094347500008,0 77.28495718900007,28.46126661800003,0 77.28530807600004,28.46212512400007,0 77.28590540900007,28.46354052800007,0 77.28598198100008,28.46409664500004,0 77.28627874900008,28.46614310300004,0 77.28662005500007,28.46878281700003,0 77.28717586900007,28.46993823300005,0 77.28705865700005,28.47439964100005,0 77.28679837700008,28.47549186400005,0 77.28686095200004,28.47804370200004,0 77.28837664900004,28.48075956900004,0 77.28905196200003,28.48422876700005,0 77.28926448800007,28.48609202300003,0 77.28947279600004,28.48764339700006,0 77.28911070000004,28.48824433600004,0 77.28849572900003,28.48852904600005,0 77.28667115200005,28.48955664900007,0 77.28657691300003,28.49317471700005,0 77.28805844100003,28.49606180100005,0 77.28900282900008,28.49812327600007,0 77.29049265800006,28.50090846400008,0 77.29079241200003,28.50155453200006,0 77.29077408800004,28.50155735300007,0 77.28759470300008,28.50205704000007,0 77.28489514700004,28.50239874700003,0 77.28372537800004,28.50239833300003,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20038">
+				<name>24</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>24</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>24</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.33120824500008,28.49217855600006,0 77.32949189400006,28.49219313000003,0 77.32805574800005,28.49217426800004,0 77.32805444800005,28.49217134600008,0 77.32775773200007,28.49184362700004,0 77.32722331800005,28.49148736500007,0 77.32724076300008,28.49084330600005,0 77.32675715500005,28.49083429700005,0 77.32672770400006,28.48965120300005,0 77.32604085300005,28.48958910700003,0 77.32558296800005,28.48951159100005,0 77.32553013700004,28.48949609800008,0 77.32523083600006,28.48918643400003,0 77.32477298300006,28.48903152200006,0 77.32450882400008,28.48898501500003,0 77.32371639300004,28.48872165900009,0 77.32331140900004,28.48848936500008,0 77.32280074700003,28.48828799900008,0 77.32223726300003,28.48805565900005,0 77.32176181400007,28.48788525900005,0 77.32141405600004,28.48761613100004,0 77.32060493000006,28.48750547600002,0 77.32091862400006,28.48689415600006,0 77.32103316600006,28.48686895000003,0 77.32809663700004,28.48678612300006,0 77.32818420600006,28.48621405000006,0 77.33287220900007,28.48621226800003,0 77.33368525300006,28.48543543100004,0 77.33492621900007,28.48630526200003,0 77.33941119700006,28.48219736600004,0 77.33810661500007,28.48215145700004,0 77.33800076600005,28.48201979300006,0 77.33413109700007,28.48195251700003,0 77.33414425300003,28.47715974100004,0 77.33416801600004,28.47725499800004,0 77.33643859100005,28.47598776200005,0 77.33643530100005,28.47534744700005,0 77.33795735400008,28.47446959500007,0 77.33983678500005,28.47435476800007,0 77.34314113600004,28.47214275900006,0 77.34463707100008,28.47095619900006,0 77.34763291300004,28.46944714900008,0 77.34821744900006,28.46915817900003,0 77.34924024700007,28.46989687900003,0 77.35077455100003,28.47012179100005,0 77.35306767500003,28.46889313200006,0 77.35670876200004,28.46742641500003,0 77.35802615900008,28.46549987600002,0 77.36174530000005,28.47059271900002,0 77.36017175200004,28.47229032800004,0 77.35563823000007,28.47977189600005,0 77.35539650300007,28.48285393400005,0 77.34795642200004,28.48958033000002,0 77.34657901900005,28.49025682900003,0 77.34392957800003,28.49166995900004,0 77.34315373300007,28.49158295500007,0 77.34236888300006,28.49155144800005,0 77.33664694500004,28.49155440900006,0 77.33670886600004,28.49211890800007,0 77.33120824500008,28.49217855600006,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20039">
+				<name>25</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>25</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Ward_No</td>
+
+<td>25</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle20</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									77.34589820600007,28.51195614200003,0 77.34445994500004,28.51230065100003,0 77.34323977300005,28.51149626200004,0 77.34077061500005,28.50843260200004,0 77.34030063800003,28.50812274800006,0 77.33943916000004,28.50688352800006,0 77.33706488900003,28.50471307800007,0 77.33656910100007,28.50436438400005,0 77.33605200800008,28.50428959200008,0 77.33600462000004,28.50365302100005,0 77.33610871500008,28.50360349400006,0 77.33566616100006,28.50280722900004,0 77.33427108300003,28.50059836100007,0 77.33379811100008,28.50063723500006,0 77.33365044500005,28.50009166200005,0 77.33273432900006,28.49918225200003,0 77.33325713300008,28.49877339100004,0 77.33175034100003,28.49686333000005,0 77.32976100300004,28.49515863000005,0 77.32959394000005,28.49519689200002,0 77.32922576700008,28.49461078400003,0 77.32921800400004,28.49443447100003,0 77.32899428200005,28.49382442100006,0 77.32869215600005,28.49339145400006,0 77.32862504200006,28.49321434600006,0 77.32852438500004,28.49289949300004,0 77.32841250700005,28.49268302300004,0 77.32815512700006,28.49239765100003,0 77.32805574800005,28.49217426800004,0 77.32949189400006,28.49219313000003,0 77.33120824500008,28.49217855600006,0 77.33670886600004,28.49211890800007,0 77.33664694500004,28.49155440900006,0 77.34236888300006,28.49155144800005,0 77.34315373300007,28.49158295500007,0 77.34392957800003,28.49166995900004,0 77.34657901900005,28.49025682900003,0 77.34795642200004,28.48958033000002,0 77.35539650300007,28.48285393400005,0 77.35412923800004,28.49901168600007,0 77.35386460800004,28.49914546600007,0 77.35194521400007,28.49868849400008,0 77.35025736800003,28.50245900500005,0 77.34955992100004,28.50391424300005,0 77.34951633300005,28.50399083300005,0 77.34890597500004,28.50609708700006,0 77.34829562300007,28.50816502600003,0 77.34694436800004,28.51030948900007,0 77.34589820600007,28.51195614200003,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
