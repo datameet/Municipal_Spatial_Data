@@ -1,18 +1,26 @@
 ## Pune
 
-
-## Quick View
-<div id="map"></div>
+## Availabe Maps
+1. pune-admin-wards.geojson
+2. pune-electoral-wards_2012.geojson
+3. pune-electoral-wards_current.geojson
 
 ## Download
-Download the full map file by Right Click -> Save Link As
+Download from github
+<a class="btn btn-lg btn-success" href="https://github.com/datameet/Municipal_Spatial_Data/tree/master/Pune">
+<i class="fa fa-github fa-2x pull-left"></i> GitHub</a>   
 
-<a class="btn btn-lg btn-success" href="https://github.com/datameet/Municipal_Spatial_Data/raw/master/Pune/pune-admin-wards.geojson"><i class="fa fa-github fa-2x pull-left"></i> Download Map File</a>
 
-### Supporting Documents
-- Not yet
+Go to the full map file and then look for Download link or Raw
 
-<script type='text/javascript'>
-var map_path = 'https://cdn.rawgit.com/datameet/Municipal_Spatial_Data/bf31a482/Pune/pune-admin-wards.geojson';
-</script>
-<script type='text/javascript' src="/js/extra.js"></script>
+
+## Issues
+
+If you have any issues with the maps, please report them on the github repository:
+
+<a href="https://github.com/datameet/Municipal_Spatial_Data/issues/new"><button class="btn btn-primary" type="submit">Report Issue</button></a>
+<a href="https://github.com/datameet/Municipal_Spatial_Data/issues"><button class="btn btn-primary" type="submit">Active Issues</button></a>
+
+
+## Repository
+

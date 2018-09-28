@@ -34,13 +34,25 @@ If you are in exploring mode then to go to the specific city map page. In city p
 	</thead>
 <tbody>
 	<tr>
-		<td><a href="bangalore/" target="_blank">Bangalore - BBMP</a></td>
+		<td><a href="bangalore/" target="_blank">Bangalore</a></td>
 		<td>Complete</td>
 	</tr>
 	<tr>
-		<td><a href="ahmedabad/" target="_blank">Ahmedabad - Wards, Libraries etc</a></td>
+		<td><a href="ahmedabad/" target="_blank">Ahmedabad</a></td>
 		<td>Complete</td>
 	</tr>
+	<tr>
+		<td><a href="bhopal/" target="_blank">Bhopal</a></td>
+		<td>Complete</td>
+	</tr>
+	<tr>
+		<td><a href="bhubaneswar/" target="_blank">Bhubaneswar</a></td>
+		<td>Complete</td>
+	</tr>
+	<tr>
+		<td><a href="pune/" target="_blank">Pune</a></td>
+		<td>Complete</td>
+	</tr>	
 </tbody>
 </table>
 

@@ -1,18 +1,24 @@
 ## Bangalore
 
-
-## Quick View
-<div id="map"></div>
+## Availabe Maps
+1. BBMP Ward Boundaries - Geo JSON, KML etc
 
 ## Download
-Download the full map file by Right Click -> Save Link As
+Download from github
+<a class="btn btn-lg btn-success" href="https://github.com/datameet/Municipal_Spatial_Data/tree/master/Bangalore">
+<i class="fa fa-github fa-2x pull-left"></i> GitHub</a>   
 
-<a class="btn btn-lg btn-success" href="https://github.com/datameet/Municipal_Spatial_Data/raw/master/Bangalore/BBMP.GeoJSON"><i class="fa fa-github fa-2x pull-left"></i> Download Map File</a>
 
-### Supporting Documents
-- Not yet
+Go to the full map file and then look for Download link or Raw
 
-<script type='text/javascript'>
-var map_path = 'https://cdn.rawgit.com/datameet/Municipal_Spatial_Data/1866f495888eaeabd75bbe575bd40902b5ee63cf/Bangalore/BBMP.GeoJSON';
-</script>
-<script type='text/javascript' src="/js/extra.js"></script>
+
+## Issues
+
+If you have any issues with the maps, please report them on the github repository:
+
+<a href="https://github.com/datameet/Municipal_Spatial_Data/issues/new"><button class="btn btn-primary" type="submit">Report Issue</button></a>
+<a href="https://github.com/datameet/Municipal_Spatial_Data/issues"><button class="btn btn-primary" type="submit">Active Issues</button></a>
+
+
+## Repository
+
