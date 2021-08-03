@@ -19,6 +19,6 @@ If you need to view them in a Desktop GIS, I'll recommend QGis
 
 ====
 
-**License**
+## Data License
 
-The dataset shared under [Creative Commons Attribution-ShareAlike 2.5 India](http://creativecommons.org/licenses/by-sa/2.5/in/) license.
+Unless explicitly stated, all datasets in this repository is shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Please mention and link to relevant dataset in the attribution, eg. *[Ahmedabad Municipal Spatial Data](https://github.com/datameet/Municipal_Spatial_Data/blob/master/Ahmedabad/Wards.geojson) by [DataMeet India community](http://datameet.org/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))*
