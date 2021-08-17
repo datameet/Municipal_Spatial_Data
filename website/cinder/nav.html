@@ -3,7 +3,7 @@
 
         <!-- Collapsed navigation -->
         <div class="navbar-header">
-            {% if include_nav or include_next_prev or repo_url %}
+            {%- if nav|length>1 or (page and (page.next_page or page.previous_page)) or config.repo_url %}
             <!-- Expander button -->
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                 <span class="sr-only">Toggle navigation</span>
@@ -14,12 +14,16 @@
             {% endif %}
 
             <!-- Main title -->
-            <a class="navbar-brand" href="{{ homepage_url }}">{{ site_name }}</a>
+
+            {% if not config.theme.disable_nav_site_name %}
+              <a class="navbar-brand" href="{{ nav.homepage.url|url }}">{{ config.site_name }}</a>
+            {% endif %}
         </div>
 
         <!-- Expanded navigation -->
         <div class="navbar-collapse collapse">
-            {% if include_nav %}
+            {%- block site_nav %}
+            {%- if nav|length>1 %}
                 <!-- Main navigation -->
                 <ul class="nav navbar-nav">
                 {% for nav_item in nav %}
@@ -34,43 +38,71 @@
                     </li>
                 {% else %}
                     <li {% if nav_item.active %}class="active"{% endif %}>
-                        <a href="{{ nav_item.url }}">{{ nav_item.title }}</a>
+                        <a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
                     </li>
                 {% endif %}
                 {% endfor %}
                 </ul>
-            {% endif %}
+            {%- endif %}
+            {%- endblock %}
 
             <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
-                        <i class="fa fa-search"></i> Search
-                    </a>
-                </li>
-                {% if include_next_prev %}
-                    <li {% if not previous_page %}class="disabled"{% endif %}>
-                        <a rel="next" {% if previous_page %}href="{{ previous_page.url }}"{% endif %}>
-                            <i class="fa fa-arrow-left"></i> Previous
-                        </a>
-                    </li>
-                    <li {% if not next_page %}class="disabled"{% endif %}>
-                        <a rel="prev" {% if next_page %}href="{{ next_page.url }}"{% endif %}>
-                            Next <i class="fa fa-arrow-right"></i>
-                        </a>
-                    </li>
-                {% endif %}
-                {% if repo_url %}
+                {%- block search_button %}
+                    {%- if 'search' in config['plugins'] and not config.theme.disable_nav_search %}
                     <li>
-                        <a href="{{ repo_url }}">
-                            {% if repo_name == 'GitHub' %}
-                                <i class="fa fa-github"></i>
-                            {% elif repo_name == 'Bitbucket' %}
-                                <i class="fa fa-bitbucket"></i>
-                            {% endif %}
-                            {{ repo_name }}
+                        <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                            <i class="fas fa-search"></i> Search
                         </a>
                     </li>
-                {% endif %}
+                    {%- endif %}
+                {%- endblock %}
+
+                {%- block next_prev %}
+                    {%- if page and (page.next_page or page.previous_page) and not config.theme.disable_nav_previous_next %}
+                    <li {% if not page.previous_page %}class="disabled"{% endif %}>
+                        <a rel="prev" {% if page.previous_page %}href="{{ page.previous_page.url|url }}"{% endif %}>
+                            <i class="fas fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li {% if not page.next_page %}class="disabled"{% endif %}>
+                        <a rel="next" {% if page.next_page %}href="{{ page.next_page.url|url }}"{% endif %}>
+                            Next <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </li>
+                    {%- endif %}
+                {%- endblock %}
+
+                {%- block repo %}
+                    {%- if page and page.edit_url %}
+                    <li>
+                        <a href="{{ page.edit_url }}">
+                            {%- if config.repo_name == 'GitHub' -%}
+                            <i class="fab fa-github"></i> Edit on {{ config.repo_name }}
+                            {%- elif config.repo_name == 'Bitbucket' -%}
+                            <i class="fab fa-bitbucket"></i> Edit on {{ config.repo_name }}
+                            {%- elif config.repo_name == 'GitLab' -%}
+                            <i class="fab fa-gitlab"></i> Edit on {{ config.repo_name }}
+                            {%- else -%}
+                            Edit on {{ config.repo_name }}
+                            {%- endif -%}
+                        </a>
+                    </li>
+                    {%- elif config.repo_url %}
+                    <li>
+                        <a href="{{ config.repo_url }}">
+                            {%- if config.repo_name == 'GitHub' -%}
+                            <i class="fab fa-github"></i> {{ config.repo_name }}
+                            {%- elif config.repo_name == 'Bitbucket' -%}
+                            <i class="fab fa-bitbucket"></i> {{ config.repo_name }}
+                            {%- elif config.repo_name == 'GitLab' -%}
+                            <i class="fab fa-gitlab"></i> {{ config.repo_name }}
+                            {%- else -%}
+                            {{ config.repo_name }}
+                            {%- endif -%}
+                        </a>
+                    </li>
+                    {%- endif %}
+                {%- endblock %}
             </ul>
         </div>
     </div>

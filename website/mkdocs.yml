@@ -20,3 +20,6 @@ pages:
 site_dir: './../docs'
 extra_css:
     - css/extra.css
+theme:
+    name: null
+    custom_dir: 'cinder'
