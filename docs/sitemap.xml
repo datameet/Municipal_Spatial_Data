@@ -1,90 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
-    <url>
-     <loc>/</loc>
-     <lastmod>2017-04-24</lastmod>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-08-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-    <url>
-     <loc>/contributing/</loc>
-     <lastmod>2017-04-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/reference/</loc>
-     <lastmod>2017-04-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-        
-    <url>
-     <loc>/ahmedabad/</loc>
-     <lastmod>2017-04-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/bangalore/</loc>
-     <lastmod>2017-04-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/pune/</loc>
-     <lastmod>2017-04-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/assembly-constituencies/</loc>
-     <lastmod>2017-04-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/parliamentary-constituencies/</loc>
-     <lastmod>2017-04-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/states/</loc>
-     <lastmod>2017-04-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/districts/</loc>
-     <lastmod>2017-04-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/</loc>
-     <lastmod>2017-04-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/indian_village_boundaries/</loc>
-     <lastmod>2017-04-24</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
 </urlset>

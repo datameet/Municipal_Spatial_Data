@@ -2,7 +2,7 @@
 
  Spatial Data of Municipalities (Maps) sourced from different government websites which are freely available to all the Indians. Here we have digitized them, cleaned them, added appropriate attributes so it can be used by all the researchers, students etc
 
-All the municipality boundaries are available in geojson (WGS84, EPSG4326) format. The below table gives you the city of the data as we clean and upload. Data is not perfect there as many errors both in data and boundaries. You can contribute by sending the pull requests. Refer [CONTRIBUTING](/contributing) for ways to contribute.
+All the municipality boundaries are available in geojson (WGS84, EPSG4326) format. The below table gives you the city of the data as we clean and upload. Data is not perfect there as many errors both in data and boundaries. You can contribute by sending the pull requests. Refer [contributing](/contributing.md) for ways to contribute.
 
 
 <img width="250px" style="float:left" src="http://projects.datameet.org/logo/datameet_logo_v.1.2.png" > This projects run by <a href="http://datameet.org">Data{Meet}</a> community. DataMeet is a community of Data Science and Open Data enthusiasts. Data{Meet} community encompass many people, ideas, projects, solutions, and challenges that using data in India presents. Join the the <a href="https://groups.google.com/group/datameet">Google Group</a> to be part of this community.
@@ -57,12 +57,12 @@ If you are in exploring mode then to go to the specific city map page. In city p
 </table>
 
 ## License
-All our work will be under [Creative Commons Attribution-ShareAlike 2.5 India](http://creativecommons.org/licenses/by-sa/2.5/in/). This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections but please source them to an official source. Refer [CONTRIBUTING.md](CONTRIBUTING.md) for ways to contribute.
+All our work will be under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections but please source them to an official source. Refer [contributing.md](contributing.md) for ways to contribute.
 
 ### Attribute
 Please use the following lines to attribute the maps if you use in your work. You could link instead of printing the URLs in case of web projects.
 <pre>
-Maps Provided by Spatial Data of Municipalities (Maps) Project [http://projects.datameet.org/Municipal_Spatial_Data/] by Data{Meet}. Its made available under the [Creative Commons Attribution-ShareAlike 2.5 India](http://creativecommons.org/licenses/by-sa/2.5/in/).
+Maps Provided by Spatial Data of Municipalities (Maps) Project [http://projects.datameet.org/Municipal_Spatial_Data/] by Data{Meet}. Its made available under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 </pre>	
 
 

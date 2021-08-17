@@ -1,6 +1,5 @@
 site_name: Spatial Data of Municipalities (Maps)
-theme_dir: cinder
-copyright: "Spatial Data of Municipalities (Maps)  is licensed under the <a href='Creative Commons Attribution-ShareAlike 2.5 India'>Creative Commons Attribution-ShareAlike 2.5 India</a>"
+copyright: "Spatial Data of Municipalities (Maps)  is licensed under the <a href='https://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International (CC BY 4.0)</a>"
 pages:
     - Home: index.md
     - Contributing: contributing.md
