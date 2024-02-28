@@ -3,9 +3,11 @@ Chennai Municipal Data
 
 This Repository contains Municipal data related to Chennai.
 
-This Data was received from the [Transparent Chennai](http://www.transparentchennai.com/) team.
+This Data (except cma-expanded) was received from the [Transparent Chennai](http://www.transparentchennai.com/) team.
 
+Chennai metropolitan area was expanded from 1189 sq.km to 5904 sq.km in 2022.
 
+The data for cma-expanded.geojson/kml  boundary is from [TNGIS](https://tngis.tnega.org/)
 
 * cma
 Chennai Metropolitan Area 
