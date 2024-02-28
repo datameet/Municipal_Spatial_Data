@@ -7,7 +7,7 @@ This Data (except cma-expanded) was received from the [Transparent Chennai](http
 
 Chennai metropolitan area was expanded from 1189 sq.km to 5904 sq.km in 2022.
 
-The data for cma-expanded boundary is from [TNGIS](https://tngis.tnega.org/)
+The data for cma-expanded.geojson/kml  boundary is from [TNGIS](https://tngis.tnega.org/)
 
 * cma
 Chennai Metropolitan Area 
